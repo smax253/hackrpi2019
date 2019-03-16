@@ -23,7 +23,9 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "scripts/*.js"
+            ]
           },
           "configurations": {
             "production": {
