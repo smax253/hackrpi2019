@@ -24,7 +24,7 @@
               "src/styles.scss"
             ],
             "scripts": [
-              "scripts/*.js"
+              "scripts/login.js"
             ]
           },
           "configurations": {
