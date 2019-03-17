@@ -7,6 +7,53 @@
 .itineraryPane{
     min-width: 50%;
 }
+h1{
+    text-align: center;
+}
 agm-map{
     height:100%;
+}
+#pointList{
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+#list{
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    max-height: 85%;
+    min-height: 85%;
+}
+.pointofinterest{
+    margin:5px;
+    padding:10px;
+    background-color: #999;
+    border: black solid 2px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    //align-items: center;
+}
+.blockHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+
+}
+#continue{
+    flex:1;
+    font-size: 24px;
+}
+.chosen{
+    background-color: #ddd;
+}
+.desc2{
+    text-align:right;
+}
+.hidden{
+    display: none;
 }

@@ -6,6 +6,7 @@ import { PickItineraryComponent } from '../pick-itinerary/pick-itinerary.compone
 import { FinalItineraryComponent } from '../final-itinerary/final-itinerary.component';
 import { CreateItineraryComponent } from '../create-itinerary/create-itinerary.component';
 import { InitSelectionsComponent } from '../init-selections/init-selections.component';
+import { MealSelectionsComponent } from '../init-selections/meal-selections.component';
 
 const routes: Routes = [{
   path: '',
@@ -28,6 +29,9 @@ const routes: Routes = [{
 },{
   path: 'initItinerary/:id/:loc',
   component: InitSelectionsComponent
+},{
+  path: 'mealItinerary/:id/:loc',
+  component: MealSelectionsComponent
 }
 ];
 

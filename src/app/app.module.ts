@@ -25,6 +25,8 @@ import { SafePipe } from "./safepipe.pipe";
 import { InitSelectionsComponent } from './init-selections/init-selections.component';
 
 import { AgmCoreModule } from '@agm/core';
+import { MealSelectionsComponent } from './init-selections/meal-selections.component';
+import {SelectionDataService} from './init-selections/selection-data.service';
 
 @NgModule({
   declarations: [
@@ -36,6 +38,7 @@ import { AgmCoreModule } from '@agm/core';
     FinalItineraryComponent,
     SafePipe,
     InitSelectionsComponent,
+    MealSelectionsComponent,
   ],
   exports: [
     SafePipe
