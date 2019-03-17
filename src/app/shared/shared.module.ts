@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { FlexLayoutModule } from '@angular/flex-layout';
+import { AgmCoreModule } from "@agm/core";
 
 import {
   MatToolbarModule,
@@ -46,6 +47,7 @@ import {
     MatFormFieldModule,
     MatSelectModule,
     FlexLayoutModule,
+    AgmCoreModule
   ],
   exports: [
     MatToolbarModule,

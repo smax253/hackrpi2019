@@ -25,8 +25,9 @@ import { SafePipe } from "./safepipe.pipe";
 import { InitSelectionsComponent } from './init-selections/init-selections.component';
 
 import { CookieService } from 'ngx-cookie-service';
-
-
+import { AgmCoreModule } from '@agm/core';
+import { MealSelectionsComponent } from './init-selections/meal-selections.component';
+import {SelectionDataService} from './init-selections/selection-data.service';
 
 @NgModule({
   declarations: [
@@ -37,7 +38,8 @@ import { CookieService } from 'ngx-cookie-service';
     PickItineraryComponent,
     FinalItineraryComponent,
     SafePipe,
-    InitSelectionsComponent
+    InitSelectionsComponent,
+    MealSelectionsComponent,
   ],
   exports: [
     SafePipe
@@ -51,6 +53,10 @@ import { CookieService } from 'ngx-cookie-service';
     AuthModule,
     AdminModule,
     AppRoutingModule,
+    ReactiveFormsModule,
+    AgmCoreModule.forRoot({
+      apiKey:"AIzaSyAOQiJ-vmDOcQ1Ndq-arZYHZGxsi0sWk_w"
+    }),
     DragDropModule,
     ReactiveFormsModule
   ],
