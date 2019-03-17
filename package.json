@@ -9,10 +9,12 @@
     "build": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "build-norm": "ng build"
   },
   "private": true,
   "dependencies": {
+    "@agm/core": "^1.0.0-beta.5",
     "@angular/animations": "^6.1.9",
     "@angular/cdk": "^7.3.4",
     "@angular/common": "^6.1.9",
@@ -52,6 +54,8 @@
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
+    "qs": "^6.6.0",
+    "request-promise-native": "^1.0.7",
     "rxjs": "6.2.0",
     "rxjs-compat": "^6.0.0-rc.0",
     "swagger-ui-express": "^3.0.9",

@@ -1,0 +1,2759 @@
+{
+  "data": [
+    {
+      "address_obj": {
+        "street1": "Hotel de ville",
+        "street2": null,
+        "city": "Paris",
+        "state": null,
+        "country": "France",
+        "postalcode": "75004",
+        "address_string": "Hotel de ville, 75004 Paris France"
+      },
+      "distance": ".01",
+      "latitude": "48.856483",
+      "rating": "5.0",
+      "description": "Paris Balade proposes guided tours with vintage cars, the pride of French and German auto-industry of the 60’s. Spend a friendly moment and dive back into the carefree atmosphere of days gone by. Your personal chauffeur-guide will immerse you in the rich history of Paris.Drive also along picturesque roads and discover magnificent castles on board our vintage cars.",
+      "attraction_types": [
+        {
+          "name": "tours",
+          "localized_name": "Sightseeing Tours"
+        }
+      ],
+      "location_id": "5851367",
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/5851367?key=2f5aef9e-d399-4298-9986-ea6305c270a8",
+      "write_review": "https://www.tripadvisor.com/UserReview-g187147-d5851367-m11068-Paris_Balade-Paris_Ile_de_France.html",
+      "ancestors": [
+        {
+          "abbrv": null,
+          "level": "City",
+          "name": "Paris",
+          "location_id": "187147"
+        },
+        {
+          "abbrv": null,
+          "level": "Region",
+          "name": "Ile-de-France",
+          "location_id": "187144"
+        },
+        {
+          "abbrv": null,
+          "level": "Country",
+          "name": "France",
+          "location_id": "187070"
+        }
+      ],
+      "longitude": "2.352413",
+      "hours": {
+        "week_ranges": [
+          {
+            "localized_day_name": "Sunday",
+            "times": [
+              {
+                "open_time": "08:00",
+                "close_time": "00:00"
+              }
+            ],
+            "day_name": "Sunday"
+          },
+          {
+            "localized_day_name": "Monday",
+            "times": [
+              {
+                "open_time": "11:00",
+                "close_time": "00:00"
+              }
+            ],
+            "day_name": "Monday"
+          },
+          {
+            "localized_day_name": "Tuesday",
+            "times": [
+              {
+                "open_time": "11:00",
+                "close_time": "00:00"
+              }
+            ],
+            "day_name": "Tuesday"
+          },
+          {
+            "localized_day_name": "Wednesday",
+            "times": [
+              {
+                "open_time": "11:00",
+                "close_time": "00:00"
+              }
+            ],
+            "day_name": "Wednesday"
+          },
+          {
+            "localized_day_name": "Thursday",
+            "times": [
+              {
+                "open_time": "11:00",
+                "close_time": "00:00"
+              }
+            ],
+            "day_name": "Thursday"
+          },
+          {
+            "localized_day_name": "Friday",
+            "times": [
+              {
+                "open_time": "11:00",
+                "close_time": "00:00"
+              }
+            ],
+            "day_name": "Friday"
+          },
+          {
+            "localized_day_name": "Saturday",
+            "times": [
+              {
+                "open_time": "08:00",
+                "close_time": "00:00"
+              }
+            ],
+            "day_name": "Saturday"
+          }
+        ],
+        "timezone": "Europe/Paris"
+      },
+      "percent_recommended": null,
+      "bearing": "southeast",
+      "groups": [
+        {
+          "name": "Tours",
+          "categories": [
+            {
+              "name": "Sightseeing Tours",
+              "localized_name": "Sightseeing Tours"
+            }
+          ],
+          "localized_name": "Tours"
+        }
+      ],
+      "ranking_data": {
+        "ranking_string": "#149 of 721 Tours in Paris",
+        "ranking_out_of": "721",
+        "geo_location_id": "187147",
+        "ranking": "149",
+        "geo_location_name": "Paris",
+        "ranking_string_detail": null
+      },
+      "location_string": "Paris, Ile-de-France",
+      "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d5851367-Reviews-Paris_Balade-Paris_Ile_de_France.html?m=11068",
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-11068-5.svg",
+      "awards": [],
+      "name": "Paris Balade",
+      "attraction_booking": {
+        "bookable": true,
+        "total_results": "2",
+        "results": "2",
+        "activity_list_url": "https://www.tripadvisor.com/Attraction_Products-g187147-d5851367-m11068-Paris_Balade-Paris_Ile_de_France.html",
+        "activity_list": [
+          {
+            "title": "Paris Left Bank Tour by 1963 Peugeot 404",
+            "price": "137",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.14336P1-m11068",
+            "description": "Discover the iconic monuments and bohemian charm of Paris’ Rive Gauche, or Left Bank, while riding in style in a vintage 1960’s Peugeot 404. Cruise in style past famous attractions like the Eiffel Tower, Boulevard Saint-Germain, Opéra Garnier and the Musée d’Orsay while a private driver and guide shares local history and legends. Choose from a 1-hour morning or evening tour, and opt to pop a bottle of Champagne during the night ride.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-75x75/06/6a/f9/eb.jpg",
+                "height": null
+              },
+              "large": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6a/f9/eb.jpg",
+                "height": null
+              },
+              "medium": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6a/f9/eb.jpg",
+                "height": null
+              }
+            },
+            "departure_point": "Central Paris",
+            "return_details": "Returns to original departure point",
+            "inclusions": [
+              "Transport by private Peugeot",
+              "Private driver/guide",
+              "Live commentary on board",
+              "One bottle of Champagne per vehicle if option selected when booking"
+            ],
+            "exclusions": [
+              "Food and drinks, unless specified",
+              "Hotel pickup and drop-off"
+            ],
+            "groups": [
+              {
+                "name": "Private & Custom Tours",
+                "categories": [
+                  {
+                    "name": "Custom Private Tours",
+                    "localized_name": "Custom Private Tours"
+                  }
+                ],
+                "localized_name": "Private & Custom Tours"
+              }
+            ]
+          },
+          {
+            "title": "Paris Off-the-Beaten-Track Tour by Mercedes 280SE",
+            "price": "149",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.14336P2-m11068",
+            "description": "Drive through Paris in a vintage Mercedes 280 SE S-class on this 1-hour tour. Get off the beaten path and discover parts of Paris that most travelers don't get to, such as the Place des Vosges, the Albert Tower and the Lutece Arena. Learn about some of the secrets and lesser-known facts of Paris' history from your driver and guide as you ride in style.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-75x75/06/6a/f9/ed.jpg",
+                "height": null
+              },
+              "large": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6a/f9/ed.jpg",
+                "height": null
+              },
+              "medium": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6a/f9/ed.jpg",
+                "height": null
+              }
+            },
+            "departure_point": "Central Paris",
+            "return_details": "Tour returns to original departure point",
+            "inclusions": [
+              "Private driver/guide",
+              "Transportation by private Mercedes-Benz",
+              "Live commentary on board",
+              "One bottle of Champagne per vehicle if option selected when booking"
+            ],
+            "exclusions": [
+              "Food and drinks, unless specified",
+              "Hotel pickup and drop-off"
+            ],
+            "groups": [
+              {
+                "name": "Private & Custom Tours",
+                "categories": [
+                  {
+                    "name": "Private Sightseeing Tours",
+                    "localized_name": "Private Sightseeing Tours"
+                  }
+                ],
+                "localized_name": "Private & Custom Tours"
+              }
+            ]
+          }
+        ]
+      },
+      "num_reviews": "87",
+      "category": {
+        "name": "attraction",
+        "localized_name": "Attraction"
+      },
+      "subcategory": [
+        {
+          "name": "sightseeing_tours",
+          "localized_name": "Tours"
+        },
+        {
+          "name": "activities",
+          "localized_name": "Activities"
+        }
+      ],
+      "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g187147-d5851367-m11068-Reviews-Paris_Balade-Paris_Ile_de_France.html#photos"
+    },
+    {
+      "address_obj": {
+        "street1": "Place de l'Hotel de Ville",
+        "street2": null,
+        "city": "Paris",
+        "state": null,
+        "country": "France",
+        "postalcode": "75004",
+        "address_string": "Place de l'Hotel de Ville, 75004 Paris France"
+      },
+      "distance": ".03",
+      "latitude": "48.85668",
+      "rating": "4.5",
+      "description": "This beautiful, 19th century building is now the seat of the French government, and features a number of displays on French history.",
+      "attraction_types": [
+        {
+          "name": "government buildings",
+          "localized_name": "Government Buildings"
+        },
+        {
+          "name": "historic sites",
+          "localized_name": "Historic Sites"
+        },
+        {
+          "name": "landmarks/ points of interest",
+          "localized_name": "Points of Interest & Landmarks"
+        }
+      ],
+      "location_id": "208055",
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/208055?key=2f5aef9e-d399-4298-9986-ea6305c270a8",
+      "write_review": "https://www.tripadvisor.com/UserReview-g187147-d208055-m11068-Hotel_de_Ville-Paris_Ile_de_France.html",
+      "ancestors": [
+        {
+          "abbrv": null,
+          "level": "City",
+          "name": "Paris",
+          "location_id": "187147"
+        },
+        {
+          "abbrv": null,
+          "level": "Region",
+          "name": "Ile-de-France",
+          "location_id": "187144"
+        },
+        {
+          "abbrv": null,
+          "level": "Country",
+          "name": "France",
+          "location_id": "187070"
+        }
+      ],
+      "longitude": "2.35157",
+      "hours": null,
+      "percent_recommended": null,
+      "bearing": "west",
+      "groups": [
+        {
+          "name": "Sights & Landmarks",
+          "categories": [
+            {
+              "name": "Government Buildings",
+              "localized_name": "Government Buildings"
+            },
+            {
+              "name": "Historic Sites",
+              "localized_name": "Historic Sites"
+            },
+            {
+              "name": "Points of Interest & Landmarks",
+              "localized_name": "Points of Interest & Landmarks"
+            }
+          ],
+          "localized_name": "Sights & Landmarks"
+        }
+      ],
+      "ranking_data": {
+        "ranking_string": "#74 of 2,398 things to do in Paris",
+        "ranking_out_of": "2398",
+        "geo_location_id": "187147",
+        "ranking": "74",
+        "geo_location_name": "Paris",
+        "ranking_string_detail": null
+      },
+      "location_string": "Paris, Ile-de-France",
+      "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d208055-Reviews-Hotel_de_Ville-Paris_Ile_de_France.html?m=11068",
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-11068-5.svg",
+      "awards": [
+        {
+          "award_type": "Certificate of Excellence",
+          "year": "2018",
+          "images": {
+            "small": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_v2_small-11068-5.jpg",
+            "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-11068-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2018"
+        }
+      ],
+      "name": "Hotel de Ville",
+      "attraction_booking": {
+        "bookable": true,
+        "total_results": "27",
+        "results": "20",
+        "activity_list_url": "https://www.tripadvisor.com/Attraction_Products-g187147-d208055-m11068-Hotel_de_Ville-Paris_Ile_de_France.html",
+        "activity_list": [
+          {
+            "title": "Ghosts, Mysteries and Legends Night Walking Tour of Paris",
+            "price": "26",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.3731PARISGHOST-m11068",
+            "description": "Enjoy an alternative take on the City of Light when you embark on this supernatural-themed tour. Don’t worry about navigating Paris’ nighttime streets on your own: with the company of your guide, you see some of the city’s best-known landmarks—including Hotel de Ville, the Seine, and Palace of Justice (Palais de Justice)—as well as its quirkier, more surprising corners. Learn all about Paris history, as well as its spookiest ghost stories.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-75x75/06/71/2f/e3.jpg",
+                "height": null
+              },
+              "large": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/2f/e3.jpg",
+                "height": null
+              },
+              "medium": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/71/2f/e3.jpg",
+                "height": null
+              }
+            },
+            "departure_point": "Statue équestre d'Henri IV",
+            "return_details": "70 Rue de Rivoli, 75004 Paris, France",
+            "inclusions": [
+              "Local guide"
+            ],
+            "exclusions": [
+              "Gratuities",
+              "Hotel pickup and drop-off"
+            ],
+            "groups": [
+              {
+                "name": "Walking & Biking Tours",
+                "categories": [
+                  {
+                    "name": "Walking Tours",
+                    "localized_name": "Walking Tours"
+                  }
+                ],
+                "localized_name": "Walking & Biking Tours"
+              },
+              {
+                "name": "Cultural & Theme Tours",
+                "categories": [
+                  {
+                    "name": "Ghost & Vampire Tours",
+                    "localized_name": "Ghost & Vampire Tours"
+                  },
+                  {
+                    "name": "Cultural Tours",
+                    "localized_name": "Cultural Tours"
+                  }
+                ],
+                "localized_name": "Cultural & Theme Tours"
+              }
+            ]
+          },
+          {
+            "title": "Historical Paris Sightseeing Tour Including Notre Dame Cathedral",
+            "price": "68",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.2050PH-m11068",
+            "description": "Visit some of Paris’ top historical sites and enjoy an in-depth experience at Notre Dame Cathedral on this half-day Paris sightseeing tour that’s great for history buffs. With a knowledgeable guide, you’ll travel to city landmarks like the Louvre, Palais Garnier, Bastille Square, the Latin Quarter and Luxembourg Gardens. Then head to Ile de la Cité either by bus or Seine River cruise to visit Notre Dame, Paris’ iconic masterpiece of Gothic architecture. Learn about its history and significance from your guide.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": "75",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs75/2050/SITours/historical-paris-sightseeing-tour-including-notre-dame-cathedral-in-paris-140579.jpg",
+                "height": "75"
+              },
+              "large": {
+                "width": "674",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2050/SITours/historical-paris-sightseeing-tour-including-notre-dame-cathedral-in-paris-140579.jpg",
+                "height": "446"
+              },
+              "medium": {
+                "width": "360",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/2050/SITours/historical-paris-sightseeing-tour-including-notre-dame-cathedral-in-paris-140579.jpg",
+                "height": "240"
+              }
+            },
+            "departure_point": "Pyramides, Central Paris",
+            "return_details": "Returns to original departure point",
+            "inclusions": [
+              "Transport by air-conditioned coach",
+              "Boat ticket for the Seine River cruise (except in winter)",
+              "Professional guide"
+            ],
+            "exclusions": [
+              "Food and drinks",
+              "Gratuities (optional)",
+              "Hotel pickup and drop-off"
+            ],
+            "groups": [
+              {
+                "name": "Cultural & Theme Tours",
+                "categories": [
+                  {
+                    "name": "Historical & Heritage Tours",
+                    "localized_name": "Historical & Heritage Tours"
+                  }
+                ],
+                "localized_name": "Cultural & Theme Tours"
+              },
+              {
+                "name": "Tours & Sightseeing",
+                "categories": [
+                  {
+                    "name": "Bus & Minivan Tours",
+                    "localized_name": "Bus & Minivan Tours"
+                  }
+                ],
+                "localized_name": "Tours & Sightseeing"
+              }
+            ]
+          },
+          {
+            "title": "Paris Walking Tour: Discover the Marais District ",
+            "price": "29",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.3588MARAIS-m11068",
+            "description": "Uncover the cultural history behind contemporary Marais on a 2-hour walking tour of the central Paris district. With a local guide, wander the vibrant quarter, known for its deep-rooted Jewish community, picturesque street cafés, galleries and more. Stroll by notable locations like the Bastille, Hotel de Ville, Place des Vosges and Pompidou Centre, Paris’ treasury of modern art. Soak up Marais’ signature vibe on this fun and educational excursion!",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": "75",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs75/3588/SITours/paris-walking-tour-discover-the-marais-district-in-paris-656934.jpg",
+                "height": "75"
+              },
+              "large": {
+                "width": "674",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/3588/SITours/paris-walking-tour-discover-the-marais-district-in-paris-656934.jpg",
+                "height": "446"
+              },
+              "medium": {
+                "width": "360",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/3588/SITours/paris-walking-tour-discover-the-marais-district-in-paris-656934.jpg",
+                "height": "240"
+              }
+            },
+            "departure_point": "Pont Marie, Central Paris, 75004",
+            "return_details": "Concludes at Rue des Roisiers",
+            "inclusions": [
+              "Local guide",
+              "Walking tour"
+            ],
+            "exclusions": [
+              "Hotel pickup and drop-off",
+              "Gratuities (optional)",
+              "Food and drinks, unless specified",
+              "Entrance fees"
+            ],
+            "groups": [
+              {
+                "name": "Walking & Biking Tours",
+                "categories": [
+                  {
+                    "name": "Walking Tours",
+                    "localized_name": "Walking Tours"
+                  }
+                ],
+                "localized_name": "Walking & Biking Tours"
+              }
+            ]
+          },
+          {
+            "title": "Seine River Cruise and Paris Illuminations Tour",
+            "price": "41",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.2050CI-m11068",
+            "description": "Paris is fabulous any time of day, but to truly experience the City of Lights, you need to explore after dark. During this evening Paris and river tour, you’ll see illuminated attractions by both land and water, including the Louvre and the Arc de Triomphe. Cruise along the Seine to admire Notre-Dame and the Eiffel Tower, and tour the city by either coach or minivan to see Les Invalides, Place de la Concorde, the Grand Palais, Rue de Rivoli and the Champs-Elysées twinkling in the night. The minivan tour option is limited to eight people to provide a small-group experience.",
+            "hotel_pickup": true,
+            "images": {
+              "small": {
+                "width": "75",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs75/2050/SITours/seine-river-cruise-and-paris-illuminations-tour-in-paris-117884.jpg",
+                "height": "75"
+              },
+              "large": {
+                "width": "674",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2050/SITours/seine-river-cruise-and-paris-illuminations-tour-in-paris-117884.jpg",
+                "height": "446"
+              },
+              "medium": {
+                "width": "360",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/2050/SITours/seine-river-cruise-and-paris-illuminations-tour-in-paris-117884.jpg",
+                "height": "240"
+              }
+            },
+            "departure_point": "Central Paris or centrally located Paris hotels (zip codes 75001-75020), depending on option selected",
+            "return_details": "Returns to original departure point",
+            "inclusions": [
+              "Local guide",
+              "1-hour Seine river cruise",
+              "1.5-hour city illuminations tour",
+              "Transport by air-conditioned coach or minivan (depending on option selected)",
+              "Hotel pickup and drop-off (if option selected)"
+            ],
+            "exclusions": [
+              "Gratuities (optional)",
+              "Food and drinks, unless specified"
+            ],
+            "groups": [
+              {
+                "name": "Cruises, Sailing & Water Tours",
+                "categories": [
+                  {
+                    "name": "Dinner Cruises",
+                    "localized_name": "Dinner Cruises"
+                  }
+                ],
+                "localized_name": "Cruises, Sailing & Water Tours"
+              },
+              {
+                "name": "Tours & Sightseeing",
+                "categories": [
+                  {
+                    "name": "Night Tours",
+                    "localized_name": "Night Tours"
+                  }
+                ],
+                "localized_name": "Tours & Sightseeing"
+              }
+            ]
+          },
+          {
+            "title": "Seine River Hop-On Hop-Off Sightseeing Cruise in Paris",
+            "price": "20",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.6025BATOBUS-m11068",
+            "description": "See top Paris sights on a leisurely hop-on hop-off Seine boat cruise. Forget traveling underground on the Metro or tiring yourself out by walking, this boat cruise offers views of the UNESCO World Heritage-listed riverbanks and the ability to hop off whenever you'd like to see sights such as Notre Dame Cathedral, Musée d'Orsay, and the Eiffel Tower. Choose a 1- or 2-day ticket to fit your schedule.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": "75",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs75/6025/SITours/seine-river-hop-on-hop-off-sightseeing-cruise-in-paris-in-paris-406709.jpg",
+                "height": "75"
+              },
+              "large": {
+                "width": "674",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/6025/SITours/seine-river-hop-on-hop-off-sightseeing-cruise-in-paris-in-paris-406709.jpg",
+                "height": "446"
+              },
+              "medium": {
+                "width": "360",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/6025/SITours/seine-river-hop-on-hop-off-sightseeing-cruise-in-paris-in-paris-406709.jpg",
+                "height": "240"
+              }
+            },
+            "departure_point": "Board your boat and exchange your voucher (print-out or e-voucher) at any of the eight stops (at the ticket office) along the Seine River",
+            "return_details": null,
+            "inclusions": [
+              "Hop-on hop-off cruise"
+            ],
+            "exclusions": [
+              "Commentary",
+              "Entrance fees",
+              "Gratuities (optional)",
+              "Food and drinks",
+              "Hotel pickup and drop-off"
+            ],
+            "groups": [
+              {
+                "name": "Cruises, Sailing & Water Tours",
+                "categories": [
+                  {
+                    "name": "Day Cruises",
+                    "localized_name": "Day Cruises"
+                  }
+                ],
+                "localized_name": "Cruises, Sailing & Water Tours"
+              },
+              {
+                "name": "Tours & Sightseeing",
+                "categories": [
+                  {
+                    "name": "Hop-on Hop-off Tours",
+                    "localized_name": "Hop-on Hop-off Tours"
+                  }
+                ],
+                "localized_name": "Tours & Sightseeing"
+              }
+            ]
+          },
+          {
+            "title": "Bistro-Style Seine River Dinner Cruise",
+            "price": "48",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.6557DINNERCRUISE-m11068",
+            "description": "The City of Lights is most magical by night, and a dinner cruise along the Seine is a quintessential experience for Paris visitors. This bistro-style cruise offers a more relaxed dining option with comfortable armchairs, a delicious 3-course dinner, and spectacular views of the Eiffel Tower, the Louvre, and Notre Dame Cathedral.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-75x75/06/73/23/a0.jpg",
+                "height": null
+              },
+              "large": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/73/23/a0.jpg",
+                "height": null
+              },
+              "medium": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/73/23/a0.jpg",
+                "height": null
+              }
+            },
+            "departure_point": "Allée des Cygnes",
+            "return_details": "Returns to original departure point",
+            "inclusions": [
+              "Dinner - 3-course dinner",
+              "Half a bottle of wine per couple (if option selected)",
+              "Half a bottle of Champagne per couple (if option selected)",
+              "Information booklet",
+              "Entry/Admission - Seine River"
+            ],
+            "exclusions": [
+              "Audio commentary"
+            ],
+            "groups": [
+              {
+                "name": "Cruises, Sailing & Water Tours",
+                "categories": [
+                  {
+                    "name": "Night Cruises",
+                    "localized_name": "Night Cruises"
+                  },
+                  {
+                    "name": "Dinner Cruises",
+                    "localized_name": "Dinner Cruises"
+                  }
+                ],
+                "localized_name": "Cruises, Sailing & Water Tours"
+              }
+            ]
+          },
+          {
+            "title": "Marais District Food Walking Tour with Wine and Cheese Tastings",
+            "price": "115",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.26729P4-m11068",
+            "description": "Experience the sights, smells, and tastes of Le Marias on this guided food-tasting walking tour. As you stroll&#xa0;through this historic, trendy Paris neighborhood, meet local artisans and food vendors while making up to 10 stops at fine food and specialty shops. Pass the Hôtel de Ville, Saint-Paul Saint-Louis Church, and the Marché des Enfants Rouges sampling wine, cheese, macarons, and more along the way.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": "75",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs75/26729/SITours/marais-district-food-walking-tour-with-wine-and-cheese-tastings-in-paris-425963.jpg",
+                "height": "75"
+              },
+              "large": {
+                "width": "674",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/26729/SITours/marais-district-food-walking-tour-with-wine-and-cheese-tastings-in-paris-425963.jpg",
+                "height": "446"
+              },
+              "medium": {
+                "width": "360",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/26729/SITours/marais-district-food-walking-tour-with-wine-and-cheese-tastings-in-paris-425963.jpg",
+                "height": "240"
+              }
+            },
+            "departure_point": "Central Paris",
+            "return_details": null,
+            "inclusions": [
+              "Food tastings such as chocolate, macarons, cheeses, and cured meat",
+              "Wine tasting",
+              "Bottled water",
+              "Local guide",
+              "Small group tour"
+            ],
+            "exclusions": [
+              "Gratuities (optional)",
+              "Hotel pickup and drop-off"
+            ],
+            "groups": [
+              {
+                "name": "Food, Wine & Nightlife",
+                "categories": [
+                  {
+                    "name": "Food Tours",
+                    "localized_name": "Food Tours"
+                  },
+                  {
+                    "name": "Wine Tasting & Winery Tours",
+                    "localized_name": "Wine Tasting & Winery Tours"
+                  }
+                ],
+                "localized_name": "Food, Wine & Nightlife"
+              }
+            ]
+          },
+          {
+            "title": "Paris Rail Day Trip from London",
+            "price": "263",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.3858EE034__5F__037-m11068",
+            "description": "Paris is just a train ride away from London, and on this full-day tour, you can hop aboard the Eurostar without a second thought and zip away to the City of Lights. Select standard or first-class travel, sit back, and relax. Upon arrival, enjoy a city tour of Paris’ top landmarks before setting off on a Seine River cruise if you've booked the guided experience, or take a Paris hop-on-hop-off bus tour if you've decided to explore independently. ",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-75x75/06/71/41/6b.jpg",
+                "height": null
+              },
+              "large": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/41/6b.jpg",
+                "height": null
+              },
+              "medium": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/71/41/6b.jpg",
+                "height": null
+              }
+            },
+            "departure_point": "St Pancras International",
+            "return_details": "Returns to original departure point",
+            "inclusions": [
+              "Paris travel pack (public transport information and city map)",
+              "Hop-on hop-off tour - For Unescorted tour",
+              "A professional guide and luxury coach - For Escorted tour",
+              "Sightseeing cruise (if option selected)",
+              "Entry/Admission - Seine River"
+            ],
+            "exclusions": [
+              "Food and drinks",
+              "Hotel pickup and drop-off",
+              "Gratuities"
+            ],
+            "groups": [
+              {
+                "name": "Kid Friendly",
+                "categories": [
+                  {
+                    "name": "Kid Friendly Tours & Activities",
+                    "localized_name": "Kid Friendly Tours & Activities"
+                  }
+                ],
+                "localized_name": "Kid Friendly"
+              },
+              {
+                "name": "Day Trips & Excursions",
+                "categories": [
+                  {
+                    "name": "Rail Tours",
+                    "localized_name": "Rail Tours"
+                  },
+                  {
+                    "name": "Day Trips",
+                    "localized_name": "Day Trips"
+                  }
+                ],
+                "localized_name": "Day Trips & Excursions"
+              },
+              {
+                "name": "Tours & Sightseeing",
+                "categories": [
+                  {
+                    "name": "Full-day Tours",
+                    "localized_name": "Full-day Tours"
+                  }
+                ],
+                "localized_name": "Tours & Sightseeing"
+              }
+            ]
+          },
+          {
+            "title": "Paris Illuminations Night Tour",
+            "price": "26",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.2050IM-m11068",
+            "description": "This Paris night tour takes you through the city during the evening hours, providing an easy way for you to see famous landmarks lit up after dark. You’ll travel past illuminated attractions such as the Eiffel Tower, Notre-Dame, Place de la Concorde, the Opera House, and Arc de Triomphe. Listen to commentary about the city and its history as you go. Choose either a standard coach tour or a small-group tour by minivan limited to eight people.",
+            "hotel_pickup": true,
+            "images": {
+              "small": {
+                "width": "75",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs75/2050/SITours/paris-illuminations-night-tour-in-paris-117892.jpg",
+                "height": "75"
+              },
+              "large": {
+                "width": "674",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2050/SITours/paris-illuminations-night-tour-in-paris-117892.jpg",
+                "height": "446"
+              },
+              "medium": {
+                "width": "360",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/2050/SITours/paris-illuminations-night-tour-in-paris-117892.jpg",
+                "height": "240"
+              }
+            },
+            "departure_point": "Central Paris or centrally located Paris hotels (zip codes 75001-75020), depending on option selected",
+            "return_details": "Tour concludes at Opéra, Pyramides or Chatelet",
+            "inclusions": [
+              "Professional guide",
+              "Transport by air-conditioned coach or minivan (depending on option selected)",
+              "Audio headsets (for standard tour)",
+              "Hotel pickup and drop-off (if option selected)"
+            ],
+            "exclusions": [
+              "Gratuities (optional)",
+              "Food and drinks"
+            ],
+            "groups": [
+              {
+                "name": "Tours & Sightseeing",
+                "categories": [
+                  {
+                    "name": "Night Tours",
+                    "localized_name": "Night Tours"
+                  }
+                ],
+                "localized_name": "Tours & Sightseeing"
+              }
+            ]
+          },
+          {
+            "title": "6-Hour Private Custom Tour of Paris",
+            "price": "461",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.11571P1-m11068",
+            "description": "Marvel over medieval monuments and modern masterpieces on this private 6-hour of Paris. Enjoy the undivided attention of your private guide as you stroll around the Latin Quarter; admire icons like Notre-Dame Cathedral and the Louvre; and pose for photos beneath the Eiffel Tower. Your itinerary is yours to customize as you please, so you could enjoy window-shopping along the Champs-Élysées, admire the grand architecture of Place de la Concorde or get off-the-beaten-track and seek out little-known sights.",
+            "hotel_pickup": true,
+            "images": {
+              "small": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-75x75/06/6a/e5/00.jpg",
+                "height": null
+              },
+              "large": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6a/e5/00.jpg",
+                "height": null
+              },
+              "medium": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6a/e5/00.jpg",
+                "height": null
+              }
+            },
+            "departure_point": "Hotels and apartments in the greater Paris area",
+            "return_details": null,
+            "inclusions": [
+              "Hotel pickup",
+              "Private guide",
+              "Transport by car, if option selected"
+            ],
+            "exclusions": [
+              "Food and drinks"
+            ],
+            "groups": [
+              {
+                "name": "Private & Custom Tours",
+                "categories": [
+                  {
+                    "name": "Custom Private Tours",
+                    "localized_name": "Custom Private Tours"
+                  },
+                  {
+                    "name": "Private Sightseeing Tours",
+                    "localized_name": "Private Sightseeing Tours"
+                  }
+                ],
+                "localized_name": "Private & Custom Tours"
+              }
+            ]
+          },
+          {
+            "title": "Paris Night Bike Tour",
+            "price": "51",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.3588PARIS03-m11068",
+            "description": "If you’ve already admired the top Paris attractions by day, see a different side of the city on an evening bike tour. Traveling by bicycle grants you access to narrow streets and hidden squares inaccessible by car, while exploring in the evening means smaller crowds and illuminated landmarks. Plus, your bike tour includes a Seine river cruise during where you’ll receive a glass of wine.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": "75",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs75/3588/SITours/paris-night-bike-tour-in-paris-656915.jpg",
+                "height": "75"
+              },
+              "large": {
+                "width": "674",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/3588/SITours/paris-night-bike-tour-in-paris-656915.jpg",
+                "height": "446"
+              },
+              "medium": {
+                "width": "360",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/3588/SITours/paris-night-bike-tour-in-paris-656915.jpg",
+                "height": "240"
+              }
+            },
+            "departure_point": "Central Paris",
+            "return_details": "24 Rue Edgar Faure, Paris 75015",
+            "inclusions": [
+              "Ticket for boat cruise",
+              "Insurance",
+              "Bicycle and helmet",
+              "Small group tour (maximum 22 people)",
+              "Wine (Water and/or juice available upon request)",
+              "Stop at the world-famous ice creams shop Berthillon (cost not included)&#xa0;",
+              "Child seat available (please specify at time of booking)"
+            ],
+            "exclusions": [
+              "Gratuities (optional)",
+              "Entrance fees",
+              "Food and drinks, unless specified",
+              "Rain gear is available at a fee of 1EUR paid direct which will be refunded if not used"
+            ],
+            "groups": [
+              {
+                "name": "Walking & Biking Tours",
+                "categories": [
+                  {
+                    "name": "Bike & Mountain Bike Tours",
+                    "localized_name": "Bike & Mountain Bike Tours"
+                  }
+                ],
+                "localized_name": "Walking & Biking Tours"
+              },
+              {
+                "name": "Tours & Sightseeing",
+                "categories": [
+                  {
+                    "name": "Night Tours",
+                    "localized_name": "Night Tours"
+                  }
+                ],
+                "localized_name": "Tours & Sightseeing"
+              }
+            ]
+          },
+          {
+            "title": "Private Half-Day Tour: Paris City Highlights",
+            "price": "59",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.2050MFP-m11068",
+            "description": "Experience Paris with a knowledgeable private guide on this half-day sightseeing tour by private minivan. You’ll see the city’s major landmarks, from the Eiffel Tower and Champs-Elysées to Notre-Dame and the Louvre. Make several photo stops, and visit Montmartre, Paris’ legendary bohemian quarter where you have time to walk around and see its hilltop Basilique du Sacré Coeur. When booking, select a morning or afternoon tour.",
+            "hotel_pickup": true,
+            "images": {
+              "small": {
+                "width": "75",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs75/2050/SITours/private-half-day-tour-paris-city-highlights-in-paris-158135.jpg",
+                "height": "75"
+              },
+              "large": {
+                "width": "674",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2050/SITours/private-half-day-tour-paris-city-highlights-in-paris-158135.jpg",
+                "height": "446"
+              },
+              "medium": {
+                "width": "360",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/2050/SITours/private-half-day-tour-paris-city-highlights-in-paris-158135.jpg",
+                "height": "240"
+              }
+            },
+            "departure_point": "Your centrally located Paris hotel (Zip codes 75001-75020)",
+            "return_details": "Returns to original departure point",
+            "inclusions": [
+              "Hotel pickup and drop-off",
+              "Free time in Montmartre",
+              "Transport by air-conditioned minivan",
+              "Private driver/guide"
+            ],
+            "exclusions": [
+              "Gratuities (optional)",
+              "Food and drinks",
+              "Entrance fees"
+            ],
+            "groups": [
+              {
+                "name": "Private & Custom Tours",
+                "categories": [
+                  {
+                    "name": "Private Sightseeing Tours",
+                    "localized_name": "Private Sightseeing Tours"
+                  }
+                ],
+                "localized_name": "Private & Custom Tours"
+              }
+            ]
+          },
+          {
+            "title": "Hidden Paris: Day Bike Tour",
+            "price": "45",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.7251P2-m11068",
+            "description": "Hit the streets of Paris and see the city like a local on a bike tour that focuses on lesser-known areas of the city. On a bike you’ll have access to some of Paris’ hard-to-reach corners. Admire secret street art, visit in-the-know bakeries, and touch a stray cannonball from the French Revolution with your guide. Plus, a small group makes for a smooth and stress-free experience.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": "75",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs75/7251/SITours/hidden-paris-day-bike-tour-in-paris-184299.jpg",
+                "height": "75"
+              },
+              "large": {
+                "width": "674",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/7251/SITours/hidden-paris-day-bike-tour-in-paris-184299.jpg",
+                "height": "446"
+              },
+              "medium": {
+                "width": "360",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/7251/SITours/hidden-paris-day-bike-tour-in-paris-184299.jpg",
+                "height": "240"
+              }
+            },
+            "departure_point": "This bike tour meets at Bike About's office/café: Le Peloton Café (17 Rue du Pont Louis Philippe 75004). Please arrive 15 minutes before your tour time. The café is open from 9-5 daily so feel free to come early for coffee or breakfast/snack!Metro: St Paul (line 1) or Pont Marie (line 7).",
+            "return_details": "Returns to original departure point",
+            "inclusions": [
+              "Local guide",
+              "Bike tour",
+              "Use of bicycle and helmet"
+            ],
+            "exclusions": [
+              "Food and drinks",
+              "Gratuities (optional)",
+              "Hotel pickup and drop-off"
+            ],
+            "groups": [
+              {
+                "name": "Walking & Biking Tours",
+                "categories": [
+                  {
+                    "name": "Bike & Mountain Bike Tours",
+                    "localized_name": "Bike & Mountain Bike Tours"
+                  }
+                ],
+                "localized_name": "Walking & Biking Tours"
+              },
+              {
+                "name": "Cultural & Theme Tours",
+                "categories": [
+                  {
+                    "name": "Cultural Tours",
+                    "localized_name": "Cultural Tours"
+                  }
+                ],
+                "localized_name": "Cultural & Theme Tours"
+              }
+            ]
+          },
+          {
+            "title": "Paris Seine River Brunch Cruise",
+            "price": "59",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.6557BRUNCH-m11068",
+            "description": "Take a leisurely midday break in Paris without missing out on sightseeing with a 1.5-hour brunch cruise on the Seine River. Board your boat in Paris' city center and float down the Seine, admiring top attractions like the Eiffel Tower, Louvre Museum, Notre-Dame Cathedral and Place de la Concorde. Enjoy a brunch of both cold and hot dishes, including sweet and savory treats, and for a more luxurious meal you can even upgrade to add a half-bottle of Champagne per couple.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-75x75/06/73/23/9f.jpg",
+                "height": null
+              },
+              "large": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/73/23/9f.jpg",
+                "height": null
+              },
+              "medium": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/73/23/9f.jpg",
+                "height": null
+              }
+            },
+            "departure_point": "Allée des Cygnes",
+            "return_details": "Returns to original departure point",
+            "inclusions": [
+              "1.5-hour cruise",
+              "Brunch",
+              "1 glass of orange juice",
+              "Unlimited tea or coffee",
+              "Half-bottle of Champagne per couple",
+              "Entry/Admission - Seine River"
+            ],
+            "exclusions": [
+              "Gratuities",
+              "Hotel pickup and drop-off",
+              "Window seating (A supplementary 5€ per person) : Please notify the supplier at the time of your booking."
+            ],
+            "groups": [
+              {
+                "name": "Cruises, Sailing & Water Tours",
+                "categories": [
+                  {
+                    "name": "Brunch Cruises",
+                    "localized_name": "Brunch Cruises"
+                  },
+                  {
+                    "name": "Day Cruises",
+                    "localized_name": "Day Cruises"
+                  }
+                ],
+                "localized_name": "Cruises, Sailing & Water Tours"
+              }
+            ]
+          },
+          {
+            "title": "Marais semi private walking tour",
+            "price": "58",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.11571P25-m11068",
+            "description": "This is a unique opportunity to learn about one of most important, layered, historically diverse and, in the last couple of decades, chic areas of Paris. We go through different stages of development of Marais, not leaving anything behind. On this visit, you will learn about the Jewish community and the Knights Templar; about the time when Marais was a fashionable neighborhood for opulent, yet restrained and elegant aristocratic abodes; when it fell from grace and was a working class, often dangerous place to be; how it was embellished, gentrified and how ultimately rose back to prominence. Not to leave anything out, you will also learn why it is one of most popular parts of the city for the Parisians too, not just for the tourists.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-75x75/07/05/f4/35.jpg",
+                "height": null
+              },
+              "large": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/05/f4/35.jpg",
+                "height": null
+              },
+              "medium": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/05/f4/35.jpg",
+                "height": null
+              }
+            },
+            "departure_point": "Café Étienne",
+            "return_details": "75004 Paris, France",
+            "inclusions": [
+              "A live professional art historian guide"
+            ],
+            "exclusions": [
+              "Snacks"
+            ],
+            "groups": [
+              {
+                "name": "Walking & Biking Tours",
+                "categories": [
+                  {
+                    "name": "Walking Tours",
+                    "localized_name": "Walking Tours"
+                  }
+                ],
+                "localized_name": "Walking & Biking Tours"
+              },
+              {
+                "name": "Cultural & Theme Tours",
+                "categories": [
+                  {
+                    "name": "Historical & Heritage Tours",
+                    "localized_name": "Historical & Heritage Tours"
+                  },
+                  {
+                    "name": "Historical & Heritage Tours",
+                    "localized_name": "Historical & Heritage Tours"
+                  },
+                  {
+                    "name": "Cultural Tours",
+                    "localized_name": "Cultural Tours"
+                  }
+                ],
+                "localized_name": "Cultural & Theme Tours"
+              }
+            ]
+          },
+          {
+            "title": "Le Marais District & Jewish Quarter Guided Walking Tour - Semi-Private 8ppl Max",
+            "price": "56",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.6353P26-m11068",
+            "description": "Experience the oldest part of Paris with this guided walking tour of Le Marais. Along with a guide and a small group, you'll explore this historic district, passing through old parks and courtyards as your guide regales you with historic tales. You'll also get to spend some time in the old Jewish Quarter, full of kosher shops and restaurants and home to a large Parisian Jewish population to this day.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-75x75/07/16/d5/da.jpg",
+                "height": null
+              },
+              "large": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/16/d5/da.jpg",
+                "height": null
+              },
+              "medium": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/16/d5/da.jpg",
+                "height": null
+              }
+            },
+            "departure_point": "Saint-Paul",
+            "return_details": "Le Marais, Paris, France",
+            "inclusions": [
+              "SEMI-PRIVATE WALKING TOUR",
+              "SEMI-PRIVATE\" MEANS GROUP SIZE IS NEVER MORE THAN 8 GUESTS MAXIMUM",
+              "PROFESSIONAL TOUR GUIDE",
+              "DURATION 2 - 2.5 HOURS",
+              "TOUR WILL RUN, RAIN OR SHINE"
+            ],
+            "exclusions": [
+              "Tour Price Does NOT Include Hotel Pickup or Drop-Off (We Recommend UBER or Taxi)",
+              "Tour Does NOT Include Gratuities (OPTIONAL)",
+              "This tour is not recommended for those with walking disabilities or using a wheelchair",
+              "Entry/Admission - Musee Carnavalet - Histoire de Paris"
+            ],
+            "groups": [
+              {
+                "name": "Walking & Biking Tours",
+                "categories": [
+                  {
+                    "name": "Walking Tours",
+                    "localized_name": "Walking Tours"
+                  }
+                ],
+                "localized_name": "Walking & Biking Tours"
+              },
+              {
+                "name": "Cultural & Theme Tours",
+                "categories": [
+                  {
+                    "name": "Historical & Heritage Tours",
+                    "localized_name": "Historical & Heritage Tours"
+                  },
+                  {
+                    "name": "Cultural Tours",
+                    "localized_name": "Cultural Tours"
+                  }
+                ],
+                "localized_name": "Cultural & Theme Tours"
+              },
+              {
+                "name": "Kid Friendly",
+                "categories": [
+                  {
+                    "name": "Kid Friendly Tours & Activities",
+                    "localized_name": "Kid Friendly Tours & Activities"
+                  }
+                ],
+                "localized_name": "Kid Friendly"
+              },
+              {
+                "name": "Luxury & Special Occasions",
+                "categories": [
+                  {
+                    "name": "Luxury Tours",
+                    "localized_name": "Luxury Tours"
+                  }
+                ],
+                "localized_name": "Luxury & Special Occasions"
+              }
+            ]
+          },
+          {
+            "title": "Paris 4-Hour Bike Tour and Market Food Tasting",
+            "price": "91",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.7818P3-m11068",
+            "description": "Spin through the French capital and sample the flavors the locals love on this 4-hour Paris bike tour with market food-tasting. Head through the bustling Marais district with a guide and soak up the stylish feel. Explore iconic squares including Place de Vosges and Place de la Bastille, and spin through the pretty Parc de Bercy on the banks of the Seine River. Stop off along the way at a local food market, and taste some of the fine cheeses and deli meats for which France is famous.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": "75",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs75/7818/SITours/paris-4-hour-bike-tour-and-market-food-tasting-in-paris-236723.jpg",
+                "height": "75"
+              },
+              "large": {
+                "width": "674",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/7818/SITours/paris-4-hour-bike-tour-and-market-food-tasting-in-paris-236723.jpg",
+                "height": "446"
+              },
+              "medium": {
+                "width": "360",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/7818/SITours/paris-4-hour-bike-tour-and-market-food-tasting-in-paris-236723.jpg",
+                "height": "240"
+              }
+            },
+            "departure_point": "Central Paris next to the Pompidou centre",
+            "return_details": null,
+            "inclusions": [
+              "Food tasting",
+              "Professional guide",
+              "Use of bicycle",
+              "Use of helmet",
+              "Bike tour"
+            ],
+            "exclusions": [
+              "Gratuities (optional)",
+              "Food and drinks, unless specified",
+              "Hotel pickup and drop-off"
+            ],
+            "groups": [
+              {
+                "name": "Walking & Biking Tours",
+                "categories": [
+                  {
+                    "name": "Bike & Mountain Bike Tours",
+                    "localized_name": "Bike & Mountain Bike Tours"
+                  }
+                ],
+                "localized_name": "Walking & Biking Tours"
+              }
+            ]
+          },
+          {
+            "title": "Marais District Small-Group Walking Tour in Paris",
+            "price": "56",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.2050P198-m11068",
+            "description": "Explore the Marais district of Paris, known for its architecture, stylish shops, cafes, and restaurants. With a guide, you'll take a walking tour around the neighborhood, listening to historical anecdotes and facts as you pass by attractions such as Place des Vosges, Hôtel de Ville, and Eglise Saint-Paul Saint-Louis and see the Jewish quarter. During the tour, enjoy a stop at a cafe to relax like a Parisian.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-75x75/06/6f/4c/b1.jpg",
+                "height": null
+              },
+              "large": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6f/4c/b1.jpg",
+                "height": null
+              },
+              "medium": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6f/4c/b1.jpg",
+                "height": null
+              }
+            },
+            "departure_point": "50 Rue de Rivoli",
+            "return_details": "Returns to original departure point",
+            "inclusions": [
+              "Guide",
+              "Coffee break at a caf",
+              "Bottled water",
+              "Coffee and/or Tea"
+            ],
+            "exclusions": [
+              "Gratuities",
+              "Hotel pickup and drop-off"
+            ],
+            "groups": [
+              {
+                "name": "Walking & Biking Tours",
+                "categories": [
+                  {
+                    "name": "Walking Tours",
+                    "localized_name": "Walking Tours"
+                  },
+                  {
+                    "name": "Walking Tours",
+                    "localized_name": "Walking Tours"
+                  }
+                ],
+                "localized_name": "Walking & Biking Tours"
+              },
+              {
+                "name": "Kid Friendly",
+                "categories": [
+                  {
+                    "name": "Kid Friendly Tours & Activities",
+                    "localized_name": "Kid Friendly Tours & Activities"
+                  }
+                ],
+                "localized_name": "Kid Friendly"
+              },
+              {
+                "name": "Tours & Sightseeing",
+                "categories": [
+                  {
+                    "name": "City Tours",
+                    "localized_name": "City Tours"
+                  },
+                  {
+                    "name": "Half-day Tours",
+                    "localized_name": "Half-day Tours"
+                  }
+                ],
+                "localized_name": "Tours & Sightseeing"
+              }
+            ]
+          },
+          {
+            "title": "Private Guided Walking Tour: Le Marais District & Jewish Quarter",
+            "price": "56",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.6353P25-m11068",
+            "description": "With its winding, cobblestoned lanes and centuries-old mansions, the Marais is the heart of historic Paris. Get up close and personal with the former royal neighborhood during this in-depth guided walking tour, which covers all the top highlights. Get a peek at the Place des Vosges, one of the oldest public squares in Paris, and explore the bustling Jewish quarter, following in the footsteps of Parisian nobility.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-75x75/07/16/d5/da.jpg",
+                "height": null
+              },
+              "large": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/16/d5/da.jpg",
+                "height": null
+              },
+              "medium": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/16/d5/da.jpg",
+                "height": null
+              }
+            },
+            "departure_point": "Saint-Paul",
+            "return_details": "Le Marais, Paris, France",
+            "inclusions": [
+              "PRIVATE WALKING TOUR",
+              "PROFESSIONAL TOUR GUIDE EXCLUSIVELY FOR YOU",
+              "DURATION 2 - 2.5 HOURS",
+              "TOUR WILL RUN, RAIN OR SHINE"
+            ],
+            "exclusions": [
+              "Tour Price Does NOT Include Hotel Pickup or Drop-Off (We Recommend UBER or Taxi)",
+              "Tour Does NOT Include Gratuities (OPTIONAL)",
+              "Entry/Admission - Musee Carnavalet - Histoire de Paris",
+              "Entry/Admission - Centre Pompidou"
+            ],
+            "groups": [
+              {
+                "name": "Walking & Biking Tours",
+                "categories": [
+                  {
+                    "name": "Walking Tours",
+                    "localized_name": "Walking Tours"
+                  }
+                ],
+                "localized_name": "Walking & Biking Tours"
+              },
+              {
+                "name": "Cultural & Theme Tours",
+                "categories": [
+                  {
+                    "name": "Historical & Heritage Tours",
+                    "localized_name": "Historical & Heritage Tours"
+                  },
+                  {
+                    "name": "Cultural Tours",
+                    "localized_name": "Cultural Tours"
+                  }
+                ],
+                "localized_name": "Cultural & Theme Tours"
+              },
+              {
+                "name": "Kid Friendly",
+                "categories": [
+                  {
+                    "name": "Kid Friendly Tours & Activities",
+                    "localized_name": "Kid Friendly Tours & Activities"
+                  }
+                ],
+                "localized_name": "Kid Friendly"
+              },
+              {
+                "name": "Luxury & Special Occasions",
+                "categories": [
+                  {
+                    "name": "Luxury Tours",
+                    "localized_name": "Luxury Tours"
+                  }
+                ],
+                "localized_name": "Luxury & Special Occasions"
+              },
+              {
+                "name": "Private & Custom Tours",
+                "categories": [
+                  {
+                    "name": "Private Sightseeing Tours",
+                    "localized_name": "Private Sightseeing Tours"
+                  }
+                ],
+                "localized_name": "Private & Custom Tours"
+              }
+            ]
+          },
+          {
+            "title": "Explore Le Marais like a local - Private walking tour",
+            "price": "40",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.19551P38-m11068",
+            "description": "To every Parisian, Le Marais is a dream place to live and be. Comes with us to understand what attracts locals here so much that tourists don’t know about yet. We will keep no secrets from you and open doors as we wander through cobbled winding streets and aristocratic mansions. Meet us in the heart of the Marais by Saint Paul &amp; Saint Louis church, and let’s start our Marais tour of architecture, food and artsy spirit.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-75x75/06/fd/91/89.jpg",
+                "height": null
+              },
+              "large": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/fd/91/89.jpg",
+                "height": null
+              },
+              "medium": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/fd/91/89.jpg",
+                "height": null
+              }
+            },
+            "departure_point": "Paroisse Saint-Paul Saint-Louis",
+            "return_details": "Returns to original departure point",
+            "inclusions": [
+              "2.5-hour private walking tour of Le Marais",
+              "Local guide for you and your party only",
+              "Secret gardens, Art shops and Off-the-beaten path itinerary"
+            ],
+            "exclusions": [
+              "Hotel pickup and drop-off",
+              "Food and drinks",
+              "Gratuities"
+            ],
+            "groups": [
+              {
+                "name": "Walking & Biking Tours",
+                "categories": [
+                  {
+                    "name": "Walking Tours",
+                    "localized_name": "Walking Tours"
+                  }
+                ],
+                "localized_name": "Walking & Biking Tours"
+              },
+              {
+                "name": "Cultural & Theme Tours",
+                "categories": [
+                  {
+                    "name": "Architecture Tours",
+                    "localized_name": "Architecture Tours"
+                  },
+                  {
+                    "name": "Literary, Art & Music Tours",
+                    "localized_name": "Literary, Art & Music Tours"
+                  },
+                  {
+                    "name": "Historical & Heritage Tours",
+                    "localized_name": "Historical & Heritage Tours"
+                  }
+                ],
+                "localized_name": "Cultural & Theme Tours"
+              },
+              {
+                "name": "Kid Friendly",
+                "categories": [
+                  {
+                    "name": "Kid Friendly Tours & Activities",
+                    "localized_name": "Kid Friendly Tours & Activities"
+                  }
+                ],
+                "localized_name": "Kid Friendly"
+              },
+              {
+                "name": "Luxury & Special Occasions",
+                "categories": [
+                  {
+                    "name": "Luxury Tours",
+                    "localized_name": "Luxury Tours"
+                  }
+                ],
+                "localized_name": "Luxury & Special Occasions"
+              },
+              {
+                "name": "Private & Custom Tours",
+                "categories": [
+                  {
+                    "name": "Private Sightseeing Tours",
+                    "localized_name": "Private Sightseeing Tours"
+                  }
+                ],
+                "localized_name": "Private & Custom Tours"
+              }
+            ]
+          }
+        ]
+      },
+      "num_reviews": "1413",
+      "category": {
+        "name": "attraction",
+        "localized_name": "Attraction"
+      },
+      "subcategory": [
+        {
+          "name": "landmarks",
+          "localized_name": "Sights & Landmarks"
+        },
+        {
+          "name": "attractions",
+          "localized_name": "Attractions"
+        }
+      ],
+      "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g187147-d208055-m11068-Reviews-Hotel_de_Ville-Paris_Ile_de_France.html#photos"
+    },
+    {
+      "address_obj": {
+        "street1": "29 rue de Rivoli",
+        "street2": "Hôtel de Ville",
+        "city": "Paris",
+        "state": null,
+        "country": "France",
+        "postalcode": "75001",
+        "address_string": "29 rue de Rivoli Hôtel de Ville, 75001 Paris France"
+      },
+      "distance": ".04",
+      "latitude": "48.856937",
+      "rating": "4.0",
+      "description": "Discover all the tourist information as well as those essential tickets for a nice stay in Paris directly to one of our Tourism Offices in Paris : one located at 29 rue de Rivoli (metro station : Hôtel de Ville), the other one in the Gare du Nord station and also, through our official website.",
+      "attraction_types": [
+        {
+          "name": "tourist/ visitor centers",
+          "localized_name": "Visitor Centers"
+        }
+      ],
+      "location_id": "310851",
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/310851?key=2f5aef9e-d399-4298-9986-ea6305c270a8",
+      "write_review": "https://www.tripadvisor.com/UserReview-g187147-d310851-m11068-Office_du_Tourisme_et_des_Congres_de_Paris-Paris_Ile_de_France.html",
+      "ancestors": [
+        {
+          "abbrv": null,
+          "level": "City",
+          "name": "Paris",
+          "location_id": "187147"
+        },
+        {
+          "abbrv": null,
+          "level": "Region",
+          "name": "Ile-de-France",
+          "location_id": "187144"
+        },
+        {
+          "abbrv": null,
+          "level": "Country",
+          "name": "France",
+          "location_id": "187070"
+        }
+      ],
+      "longitude": "2.352801",
+      "hours": {
+        "week_ranges": [
+          {
+            "localized_day_name": "Sunday",
+            "times": [
+              {
+                "open_time": "10:00",
+                "close_time": "18:45"
+              }
+            ],
+            "day_name": "Sunday"
+          },
+          {
+            "localized_day_name": "Monday",
+            "times": [
+              {
+                "open_time": "10:00",
+                "close_time": "18:45"
+              }
+            ],
+            "day_name": "Monday"
+          },
+          {
+            "localized_day_name": "Tuesday",
+            "times": [
+              {
+                "open_time": "10:00",
+                "close_time": "18:45"
+              }
+            ],
+            "day_name": "Tuesday"
+          },
+          {
+            "localized_day_name": "Wednesday",
+            "times": [
+              {
+                "open_time": "10:00",
+                "close_time": "18:45"
+              }
+            ],
+            "day_name": "Wednesday"
+          },
+          {
+            "localized_day_name": "Thursday",
+            "times": [
+              {
+                "open_time": "10:00",
+                "close_time": "18:45"
+              }
+            ],
+            "day_name": "Thursday"
+          },
+          {
+            "localized_day_name": "Friday",
+            "times": [
+              {
+                "open_time": "10:00",
+                "close_time": "18:45"
+              }
+            ],
+            "day_name": "Friday"
+          },
+          {
+            "localized_day_name": "Saturday",
+            "times": [
+              {
+                "open_time": "10:00",
+                "close_time": "18:45"
+              }
+            ],
+            "day_name": "Saturday"
+          }
+        ],
+        "timezone": "Europe/Paris"
+      },
+      "percent_recommended": null,
+      "bearing": "northeast",
+      "groups": [
+        {
+          "name": "Traveler Resources",
+          "categories": [
+            {
+              "name": "Visitor Centers",
+              "localized_name": "Visitor Centers"
+            }
+          ],
+          "localized_name": "Traveler Resources"
+        }
+      ],
+      "ranking_data": {
+        "ranking_string": "#182 of 2,398 things to do in Paris",
+        "ranking_out_of": "2398",
+        "geo_location_id": "187147",
+        "ranking": "182",
+        "geo_location_name": "Paris",
+        "ranking_string_detail": null
+      },
+      "location_string": "Paris, Ile-de-France",
+      "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d310851-Reviews-Office_du_Tourisme_et_des_Congres_de_Paris-Paris_Ile_de_France.html?m=11068",
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-11068-5.svg",
+      "awards": [],
+      "name": "Office du Tourisme et des Congres de Paris",
+      "attraction_booking": {
+        "bookable": true,
+        "total_results": "1",
+        "results": "1",
+        "activity_list_url": "https://www.tripadvisor.com/Attraction_Products-g187147-d310851-m11068-Office_du_Tourisme_et_des_Congres_de_Paris-Paris_Ile_de_France.html",
+        "activity_list": [
+          {
+            "title": "Paris Passlib'",
+            "price": "126",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.35074P2-m11068",
+            "description": "Coming to Paris for a weekend or several days? The ‘Paris Passlib’ is a ready-to-go sightseeing package that saves you time and affords you flexibility as you discover the French capital’s top attractions. Select a 2-, 3- or 5-day set of passes and enjoy priority access to museums and monuments, a river cruise, a hop-on hop-off bus tour and unlimited travel on Paris’ public transport. Pick up this amazing inclusive package from a central location near the Louvre.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": "75",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs75/35074/SITours/paris-passlib-in-paris-389073.jpg",
+                "height": "75"
+              },
+              "large": {
+                "width": "674",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/35074/SITours/paris-passlib-in-paris-389073.jpg",
+                "height": "446"
+              },
+              "medium": {
+                "width": "360",
+                "url": "https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/35074/SITours/paris-passlib-in-paris-389073.jpg",
+                "height": "240"
+              }
+            },
+            "departure_point": "Pick up your pass in central Paris (address provided on voucher)",
+            "return_details": null,
+            "inclusions": [
+              "Guaranteed to skip the long lines",
+              "Admission tickets",
+              "Hop-on hop-off tour",
+              "River cruise"
+            ],
+            "exclusions": [
+              "Food and drinks",
+              "Hotel pickup and drop-off"
+            ],
+            "groups": [
+              {
+                "name": "Sightseeing Tickets & Passes",
+                "categories": [
+                  {
+                    "name": "Sightseeing Passes",
+                    "localized_name": "Sightseeing Passes"
+                  }
+                ],
+                "localized_name": "Sightseeing Tickets & Passes"
+              }
+            ]
+          }
+        ]
+      },
+      "num_reviews": "2219",
+      "category": {
+        "name": "attraction",
+        "localized_name": "Attraction"
+      },
+      "subcategory": [
+        {
+          "name": "traveler_resources",
+          "localized_name": "Traveler Resources"
+        },
+        {
+          "name": "attractions",
+          "localized_name": "Attractions"
+        }
+      ],
+      "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g187147-d310851-m11068-Reviews-Office_du_Tourisme_et_des_Congres_de_Paris-Paris_Ile_de_France.html#photos"
+    },
+    {
+      "address_obj": {
+        "street1": "29 rue de Rivoli",
+        "street2": null,
+        "city": "Paris",
+        "state": null,
+        "country": "France",
+        "postalcode": "75004",
+        "address_string": "29 rue de Rivoli, 75004 Paris France"
+      },
+      "distance": ".04",
+      "latitude": "48.85702",
+      "rating": "4.0",
+      "description": null,
+      "attraction_types": [
+        {
+          "name": "specialty shops",
+          "localized_name": "Gift & Specialty Shops"
+        }
+      ],
+      "location_id": "7061490",
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/7061490?key=2f5aef9e-d399-4298-9986-ea6305c270a8",
+      "write_review": "https://www.tripadvisor.com/UserReview-g187147-d7061490-m11068-La_Boutique_de_la_Ville_de_Paris-Paris_Ile_de_France.html",
+      "ancestors": [
+        {
+          "abbrv": null,
+          "level": "City",
+          "name": "Paris",
+          "location_id": "187147"
+        },
+        {
+          "abbrv": null,
+          "level": "Region",
+          "name": "Ile-de-France",
+          "location_id": "187144"
+        },
+        {
+          "abbrv": null,
+          "level": "Country",
+          "name": "France",
+          "location_id": "187070"
+        }
+      ],
+      "longitude": "2.35284",
+      "hours": null,
+      "percent_recommended": null,
+      "bearing": "northeast",
+      "groups": [
+        {
+          "name": "Shopping",
+          "categories": [
+            {
+              "name": "Gift & Specialty Shops",
+              "localized_name": "Gift & Specialty Shops"
+            }
+          ],
+          "localized_name": "Shopping"
+        }
+      ],
+      "ranking_data": {
+        "ranking_string": "#561 of 791 Shopping in Paris",
+        "ranking_out_of": "791",
+        "geo_location_id": "187147",
+        "ranking": "561",
+        "geo_location_name": "Paris",
+        "ranking_string_detail": null
+      },
+      "location_string": "Paris, Ile-de-France",
+      "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d7061490-Reviews-La_Boutique_de_la_Ville_de_Paris-Paris_Ile_de_France.html?m=11068",
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-11068-5.svg",
+      "awards": [],
+      "name": "La Boutique de la Ville de Paris",
+      "attraction_booking": {
+        "bookable": false
+      },
+      "num_reviews": "1",
+      "category": {
+        "name": "attraction",
+        "localized_name": "Attraction"
+      },
+      "subcategory": [
+        {
+          "name": "shopping",
+          "localized_name": "Shopping"
+        }
+      ],
+      "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g187147-d7061490-m11068-Reviews-La_Boutique_de_la_Ville_de_Paris-Paris_Ile_de_France.html#photos"
+    },
+    {
+      "address_obj": {
+        "street1": "Place de l'Hotel de Ville",
+        "street2": null,
+        "city": "Paris",
+        "state": null,
+        "country": "France",
+        "postalcode": "75001",
+        "address_string": "Place de l'Hotel de Ville, 75001 Paris France"
+      },
+      "distance": ".04",
+      "latitude": "48.8562",
+      "rating": "5.0",
+      "description": null,
+      "attraction_types": [
+        {
+          "name": "city tours",
+          "localized_name": "City Tours"
+        }
+      ],
+      "location_id": "11728977",
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/11728977?key=2f5aef9e-d399-4298-9986-ea6305c270a8",
+      "write_review": "https://www.tripadvisor.com/UserReview-g187147-d11728977-m11068-Paris_Uncovered-Paris_Ile_de_France.html",
+      "ancestors": [
+        {
+          "abbrv": null,
+          "level": "City",
+          "name": "Paris",
+          "location_id": "187147"
+        },
+        {
+          "abbrv": null,
+          "level": "Region",
+          "name": "Ile-de-France",
+          "location_id": "187144"
+        },
+        {
+          "abbrv": null,
+          "level": "Country",
+          "name": "France",
+          "location_id": "187070"
+        }
+      ],
+      "longitude": "2.35287",
+      "hours": null,
+      "percent_recommended": null,
+      "bearing": "southeast",
+      "groups": [
+        {
+          "name": "Tours",
+          "categories": [
+            {
+              "name": "City Tours",
+              "localized_name": "City Tours"
+            }
+          ],
+          "localized_name": "Tours"
+        }
+      ],
+      "ranking_data": {
+        "ranking_string": "#222 of 721 Tours in Paris",
+        "ranking_out_of": "721",
+        "geo_location_id": "187147",
+        "ranking": "222",
+        "geo_location_name": "Paris",
+        "ranking_string_detail": null
+      },
+      "location_string": "Paris, Ile-de-France",
+      "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d11728977-Reviews-Paris_Uncovered-Paris_Ile_de_France.html?m=11068",
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-11068-5.svg",
+      "awards": [],
+      "name": "Paris Uncovered",
+      "attraction_booking": {
+        "bookable": false
+      },
+      "num_reviews": "24",
+      "category": {
+        "name": "attraction",
+        "localized_name": "Attraction"
+      },
+      "subcategory": [
+        {
+          "name": "sightseeing_tours",
+          "localized_name": "Tours"
+        },
+        {
+          "name": "activities",
+          "localized_name": "Activities"
+        }
+      ],
+      "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g187147-d11728977-m11068-Reviews-Paris_Uncovered-Paris_Ile_de_France.html#photos"
+    },
+    {
+      "address_obj": {
+        "street1": "52 rue de Rivoli",
+        "street2": "55 Rue de la Verrerie",
+        "city": "Paris",
+        "state": null,
+        "country": "France",
+        "postalcode": "75004",
+        "address_string": "52 rue de Rivoli 55 Rue de la Verrerie, 75004 Paris France"
+      },
+      "distance": ".06",
+      "latitude": "48.857185",
+      "rating": "4.0",
+      "description": "Open 7 days a week, LE BHV MARAIS, is located in the heart of the capital, just a stone’s throw from Notre-Dame and opposite the Hotel de Ville, in the ultra-trendy, historical and cultural Marais district. BOOK YOUR GUIDED TOUR / LE BHV MARAIS is unique; as well as housing more than 2,000 fashion and design brands, it offers a whole range of diverse activities. Welcome to the only department store in the world with its own tourist trail. LE BHV MARAIS has intensively trained their own professional guides who in turn; have created tailor- made tours for the store’s visitors. WHERE THE MARAIS DISTRICT BEGINS / Unique throughout the world, the Marais is an epicentre of trends, cosmopolitan and inspiring, that unites history, museums, night life, shopping... THE BEST OF EVERYTHING / A large, multi-specialised Department Store, with a retail space of 45,000 m2, offering more than 2,000 brand names for all types of everyday needs: Hardware, Home, Fashion, DIY, Leisure activities, Food... AN EXCLUSIVE LIFESTYLE CONCEPT STORE / A lamp, some tea, a bed, a pan, a bath-towel, a smartphone, a book, a feather duster, a vacuum cleaner or a fridge ... whatever your heart desires you will find it here, amongst the almost 900 homeware brands available at LE BHV MARAIS. THE BIGGEST TOOLBOX IN PARIS / Over 54,000 products make the basement at LE BHV MARAIS unique amongst department stores the world over. A SHOPPING DESTINATION FOR CUTTING-EDGE FASHION / We put our all into surprising our customers every time they visit with over 500 brands in Fashion, Beauty, Leather Goods, Accessories, Jewellery and Footwear. THE LARGEST MARAIS’ BEAUTY DEPARTMENT / Brands like Aesop, Kiehl’s, Absolution, Too Cool For School… as well as iconic names Chanel, Dior and Guerlain and their Exclusives… rub shoulders with services such as the Kure nail bar and the Clarins SPA. INNOVATIVE, AN INSPIRING PLACE / Where the spirit of the times can be seen in over 40 pop-up shops per year, new brands/designers and exclusive international previews. Brands like Made in Design and the Nespresso Cube will delight you during your visit. Discover also LICK, the new high-tech corner. A CULINARY DESTINATION / Whether you’re a total novice or a professional chef in the making, it’s all here for you: tableware, kitchenware, household appliances and gourmet shop all take centre stage. THE BEST VIEW IN PARIS / Come and discover le Perchoir Marais, one of the most famous rooftop in Paris, with its magical atmosphere and magnificent panoramas, open every night after store closing.",
+      "attraction_types": [
+        {
+          "name": "specialty shops",
+          "localized_name": "Gift & Specialty Shops"
+        },
+        {
+          "name": "curated shopping",
+          "localized_name": ""
+        }
+      ],
+      "location_id": "523181",
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/523181?key=2f5aef9e-d399-4298-9986-ea6305c270a8",
+      "write_review": "https://www.tripadvisor.com/UserReview-g187147-d523181-m11068-LE_BHV_MARAIS-Paris_Ile_de_France.html",
+      "ancestors": [
+        {
+          "abbrv": null,
+          "level": "City",
+          "name": "Paris",
+          "location_id": "187147"
+        },
+        {
+          "abbrv": null,
+          "level": "Region",
+          "name": "Ile-de-France",
+          "location_id": "187144"
+        },
+        {
+          "abbrv": null,
+          "level": "Country",
+          "name": "France",
+          "location_id": "187070"
+        }
+      ],
+      "longitude": "2.353186",
+      "hours": {
+        "week_ranges": [
+          {
+            "localized_day_name": "Sunday",
+            "times": [
+              {
+                "open_time": "11:00",
+                "close_time": "19:30"
+              }
+            ],
+            "day_name": "Sunday"
+          },
+          {
+            "localized_day_name": "Monday",
+            "times": [
+              {
+                "open_time": "09:30",
+                "close_time": "20:00"
+              }
+            ],
+            "day_name": "Monday"
+          },
+          {
+            "localized_day_name": "Tuesday",
+            "times": [
+              {
+                "open_time": "09:30",
+                "close_time": "20:00"
+              }
+            ],
+            "day_name": "Tuesday"
+          },
+          {
+            "localized_day_name": "Wednesday",
+            "times": [
+              {
+                "open_time": "09:30",
+                "close_time": "20:00"
+              }
+            ],
+            "day_name": "Wednesday"
+          },
+          {
+            "localized_day_name": "Thursday",
+            "times": [
+              {
+                "open_time": "09:30",
+                "close_time": "20:00"
+              }
+            ],
+            "day_name": "Thursday"
+          },
+          {
+            "localized_day_name": "Friday",
+            "times": [
+              {
+                "open_time": "09:30",
+                "close_time": "20:00"
+              }
+            ],
+            "day_name": "Friday"
+          },
+          {
+            "localized_day_name": "Saturday",
+            "times": [
+              {
+                "open_time": "09:30",
+                "close_time": "20:00"
+              }
+            ],
+            "day_name": "Saturday"
+          }
+        ],
+        "timezone": "Europe/Paris"
+      },
+      "percent_recommended": null,
+      "bearing": "northeast",
+      "groups": [
+        {
+          "name": "Shopping",
+          "categories": [
+            {
+              "name": "Gift & Specialty Shops",
+              "localized_name": "Gift & Specialty Shops"
+            },
+            {
+              "name": "",
+              "localized_name": ""
+            }
+          ],
+          "localized_name": "Shopping"
+        }
+      ],
+      "ranking_data": {
+        "ranking_string": "#58 of 791 Shopping in Paris",
+        "ranking_out_of": "791",
+        "geo_location_id": "187147",
+        "ranking": "58",
+        "geo_location_name": "Paris",
+        "ranking_string_detail": null
+      },
+      "location_string": "Paris, Ile-de-France",
+      "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d523181-Reviews-LE_BHV_MARAIS-Paris_Ile_de_France.html?m=11068",
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-11068-5.svg",
+      "awards": [
+        {
+          "award_type": "Certificate of Excellence",
+          "year": "2018",
+          "images": {
+            "small": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_v2_small-11068-5.jpg",
+            "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-11068-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2018"
+        }
+      ],
+      "name": "LE BHV MARAIS",
+      "attraction_booking": {
+        "bookable": true,
+        "total_results": "1",
+        "results": "1",
+        "activity_list_url": "https://www.tripadvisor.com/Attraction_Products-g187147-d523181-m11068-LE_BHV_MARAIS-Paris_Ile_de_France.html",
+        "activity_list": [
+          {
+            "title": "Good Deal at Le BHV MARAIS",
+            "price": "17",
+            "currency": "USD",
+            "url": "https://www.tripadvisor.com/AttractionProductDetail-a_partner.Viator-a_product.53112P2-m11068",
+            "description": "In the mood for a little Parisian retail therapy? This discounted shopping spree takes you into the heart of the Marais with exclusive vouchers for BHV, a historic department store founded in 1856. Wander multiple floors at your own pace as you browse the latest in contemporary fashion and home design. Shoppers receive a drink and pastry at Cafe Marlette, on the 5th floor, and limited edition BHV tote bags.",
+            "hotel_pickup": false,
+            "images": {
+              "small": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-75x75/06/6e/e6/14.jpg",
+                "height": null
+              },
+              "large": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6e/e6/14.jpg",
+                "height": null
+              },
+              "medium": {
+                "width": null,
+                "url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6e/e6/14.jpg",
+                "height": null
+              }
+            },
+            "departure_point": "LE BHV MARAIS, 75004 Paris",
+            "return_details": null,
+            "inclusions": [
+              "Delivery of your purchases to your hotel",
+              "Marlette’s offer : a tall drink + pastry of your choice",
+              "A limited edition LE BHV MARAIS tote bag",
+              "Special Bonus of the month: -10% discount on a selection of brands"
+            ],
+            "exclusions": [
+              "Your special -10% discount cannot be combined with any other offer or promotion, except -12% tax refund. The discount doesn't aply to the red dots items and the luxury boutiques of rue des Archives (see all conditions in store)",
+              "Hotel pickup"
+            ],
+            "groups": [
+              {
+                "name": "Shopping & Fashion",
+                "categories": [
+                  {
+                    "name": "Shopping Passes & Offers",
+                    "localized_name": "Shopping Passes & Offers"
+                  }
+                ],
+                "localized_name": "Shopping & Fashion"
+              }
+            ]
+          }
+        ]
+      },
+      "num_reviews": "429",
+      "category": {
+        "name": "attraction",
+        "localized_name": "Attraction"
+      },
+      "subcategory": [
+        {
+          "name": "shopping",
+          "localized_name": "Shopping"
+        }
+      ],
+      "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g187147-d523181-m11068-Reviews-LE_BHV_MARAIS-Paris_Ile_de_France.html#photos"
+    },
+    {
+      "address_obj": {
+        "street1": "1341 Quai de l'Hotel de ville",
+        "street2": null,
+        "city": "Paris",
+        "state": null,
+        "country": "France",
+        "postalcode": "75004",
+        "address_string": "1341 Quai de l'Hotel de ville, 75004 Paris France"
+      },
+      "distance": ".07",
+      "latitude": "48.855648",
+      "rating": "3.5",
+      "description": null,
+      "attraction_types": [
+        {
+          "name": "monuments/ statues",
+          "localized_name": "Monuments & Statues"
+        }
+      ],
+      "location_id": "13456457",
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/13456457?key=2f5aef9e-d399-4298-9986-ea6305c270a8",
+      "write_review": "https://www.tripadvisor.com/UserReview-g187147-d13456457-m11068-Statue_Etienne_Marcel-Paris_Ile_de_France.html",
+      "ancestors": [
+        {
+          "abbrv": null,
+          "level": "City",
+          "name": "Paris",
+          "location_id": "187147"
+        },
+        {
+          "abbrv": null,
+          "level": "Region",
+          "name": "Ile-de-France",
+          "location_id": "187144"
+        },
+        {
+          "abbrv": null,
+          "level": "Country",
+          "name": "France",
+          "location_id": "187070"
+        }
+      ],
+      "longitude": "2.352045",
+      "hours": null,
+      "percent_recommended": null,
+      "bearing": "south",
+      "groups": [
+        {
+          "name": "Sights & Landmarks",
+          "categories": [
+            {
+              "name": "Monuments & Statues",
+              "localized_name": "Monuments & Statues"
+            }
+          ],
+          "localized_name": "Sights & Landmarks"
+        }
+      ],
+      "ranking_data": {
+        "ranking_string": "#1,186 of 2,398 things to do in Paris",
+        "ranking_out_of": "2398",
+        "geo_location_id": "187147",
+        "ranking": "1186",
+        "geo_location_name": "Paris",
+        "ranking_string_detail": null
+      },
+      "location_string": "Paris, Ile-de-France",
+      "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d13456457-Reviews-Statue_Etienne_Marcel-Paris_Ile_de_France.html?m=11068",
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-11068-5.svg",
+      "awards": [],
+      "name": "Statue Etienne Marcel",
+      "attraction_booking": {
+        "bookable": false
+      },
+      "num_reviews": "5",
+      "category": {
+        "name": "attraction",
+        "localized_name": "Attraction"
+      },
+      "subcategory": [
+        {
+          "name": "landmarks",
+          "localized_name": "Sights & Landmarks"
+        },
+        {
+          "name": "attractions",
+          "localized_name": "Attractions"
+        }
+      ],
+      "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g187147-d13456457-m11068-Reviews-Statue_Etienne_Marcel-Paris_Ile_de_France.html#photos"
+    },
+    {
+      "address_obj": {
+        "street1": "4th",
+        "street2": "Centre Pompidou",
+        "city": "Paris",
+        "state": null,
+        "country": "France",
+        "postalcode": "",
+        "address_string": "4th Centre Pompidou, Paris France"
+      },
+      "distance": ".07",
+      "latitude": "48.856857",
+      "rating": "3.5",
+      "description": null,
+      "attraction_types": [
+        {
+          "name": "art museums",
+          "localized_name": "Art Museums"
+        }
+      ],
+      "location_id": "244951",
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/244951?key=2f5aef9e-d399-4298-9986-ea6305c270a8",
+      "write_review": "https://www.tripadvisor.com/UserReview-g187147-d244951-m11068-Galerie_des_Enfants-Paris_Ile_de_France.html",
+      "ancestors": [
+        {
+          "abbrv": null,
+          "level": "City",
+          "name": "Paris",
+          "location_id": "187147"
+        },
+        {
+          "abbrv": null,
+          "level": "Region",
+          "name": "Ile-de-France",
+          "location_id": "187144"
+        },
+        {
+          "abbrv": null,
+          "level": "Country",
+          "name": "France",
+          "location_id": "187070"
+        }
+      ],
+      "longitude": "2.350672",
+      "hours": {
+        "week_ranges": [
+          {
+            "localized_day_name": "Sunday",
+            "times": [
+              {
+                "open_time": "10:00",
+                "close_time": "18:00"
+              }
+            ],
+            "day_name": "Sunday"
+          },
+          {
+            "localized_day_name": "Monday",
+            "times": [
+              {
+                "open_time": "10:00",
+                "close_time": "18:00"
+              }
+            ],
+            "day_name": "Monday"
+          },
+          {
+            "localized_day_name": "Tuesday",
+            "times": [],
+            "day_name": "Tuesday"
+          },
+          {
+            "localized_day_name": "Wednesday",
+            "times": [
+              {
+                "open_time": "10:00",
+                "close_time": "18:00"
+              }
+            ],
+            "day_name": "Wednesday"
+          },
+          {
+            "localized_day_name": "Thursday",
+            "times": [
+              {
+                "open_time": "10:00",
+                "close_time": "18:00"
+              }
+            ],
+            "day_name": "Thursday"
+          },
+          {
+            "localized_day_name": "Friday",
+            "times": [
+              {
+                "open_time": "10:00",
+                "close_time": "18:00"
+              }
+            ],
+            "day_name": "Friday"
+          },
+          {
+            "localized_day_name": "Saturday",
+            "times": [
+              {
+                "open_time": "10:00",
+                "close_time": "18:00"
+              }
+            ],
+            "day_name": "Saturday"
+          }
+        ],
+        "timezone": "Europe/Paris"
+      },
+      "percent_recommended": null,
+      "bearing": "west",
+      "groups": [
+        {
+          "name": "Museums",
+          "categories": [
+            {
+              "name": "Art Museums",
+              "localized_name": "Art Museums"
+            }
+          ],
+          "localized_name": "Museums"
+        }
+      ],
+      "ranking_data": {
+        "ranking_string": "#841 of 2,398 things to do in Paris",
+        "ranking_out_of": "2398",
+        "geo_location_id": "187147",
+        "ranking": "841",
+        "geo_location_name": "Paris",
+        "ranking_string_detail": null
+      },
+      "location_string": "Paris, Ile-de-France",
+      "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d244951-Reviews-Galerie_des_Enfants-Paris_Ile_de_France.html?m=11068",
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-11068-5.svg",
+      "awards": [],
+      "name": "Galerie des Enfants",
+      "attraction_booking": {
+        "bookable": false
+      },
+      "num_reviews": "14",
+      "category": {
+        "name": "attraction",
+        "localized_name": "Attraction"
+      },
+      "subcategory": [
+        {
+          "name": "museums",
+          "localized_name": "Museums"
+        },
+        {
+          "name": "attractions",
+          "localized_name": "Attractions"
+        }
+      ],
+      "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g187147-d244951-m11068-Reviews-Galerie_des_Enfants-Paris_Ile_de_France.html#photos"
+    },
+    {
+      "address_obj": {
+        "street1": null,
+        "street2": "Place Saint Gervais",
+        "city": "Paris",
+        "state": null,
+        "country": "France",
+        "postalcode": "75004",
+        "address_string": "Place Saint Gervais, 75004 Paris France"
+      },
+      "distance": ".09",
+      "latitude": "48.85583",
+      "rating": "3.5",
+      "description": null,
+      "attraction_types": [
+        {
+          "name": "landmarks/ points of interest",
+          "localized_name": "Points of Interest & Landmarks"
+        }
+      ],
+      "location_id": "12454300",
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/12454300?key=2f5aef9e-d399-4298-9986-ea6305c270a8",
+      "write_review": "https://www.tripadvisor.com/UserReview-g187147-d12454300-m11068-L_Orme_de_Saint_Gervais-Paris_Ile_de_France.html",
+      "ancestors": [
+        {
+          "abbrv": null,
+          "level": "City",
+          "name": "Paris",
+          "location_id": "187147"
+        },
+        {
+          "abbrv": null,
+          "level": "Region",
+          "name": "Ile-de-France",
+          "location_id": "187144"
+        },
+        {
+          "abbrv": null,
+          "level": "Country",
+          "name": "France",
+          "location_id": "187070"
+        }
+      ],
+      "longitude": "2.35373",
+      "hours": null,
+      "percent_recommended": null,
+      "bearing": "southeast",
+      "groups": [
+        {
+          "name": "Sights & Landmarks",
+          "categories": [
+            {
+              "name": "Points of Interest & Landmarks",
+              "localized_name": "Points of Interest & Landmarks"
+            }
+          ],
+          "localized_name": "Sights & Landmarks"
+        }
+      ],
+      "ranking_data": {
+        "ranking_string": "#1,192 of 2,398 things to do in Paris",
+        "ranking_out_of": "2398",
+        "geo_location_id": "187147",
+        "ranking": "1192",
+        "geo_location_name": "Paris",
+        "ranking_string_detail": null
+      },
+      "location_string": "Paris, Ile-de-France",
+      "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d12454300-Reviews-L_Orme_de_Saint_Gervais-Paris_Ile_de_France.html?m=11068",
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-11068-5.svg",
+      "awards": [],
+      "name": "L'Orme de Saint Gervais",
+      "attraction_booking": {
+        "bookable": false
+      },
+      "num_reviews": "4",
+      "category": {
+        "name": "attraction",
+        "localized_name": "Attraction"
+      },
+      "subcategory": [
+        {
+          "name": "landmarks",
+          "localized_name": "Sights & Landmarks"
+        },
+        {
+          "name": "attractions",
+          "localized_name": "Attractions"
+        }
+      ],
+      "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g187147-d12454300-m11068-Reviews-L_Orme_de_Saint_Gervais-Paris_Ile_de_France.html#photos"
+    },
+    {
+      "address_obj": {
+        "street1": null,
+        "street2": null,
+        "city": "Paris",
+        "state": null,
+        "country": "France",
+        "postalcode": "75004",
+        "address_string": "75004 Paris France"
+      },
+      "distance": ".09",
+      "latitude": "48.855686",
+      "rating": "4.0",
+      "description": null,
+      "attraction_types": [
+        {
+          "name": "bridges",
+          "localized_name": "Bridges"
+        },
+        {
+          "name": "monuments/ statues",
+          "localized_name": "Monuments & Statues"
+        },
+        {
+          "name": "landmarks/ points of interest",
+          "localized_name": "Points of Interest & Landmarks"
+        }
+      ],
+      "location_id": "8408066",
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/8408066?key=2f5aef9e-d399-4298-9986-ea6305c270a8",
+      "write_review": "https://www.tripadvisor.com/UserReview-g187147-d8408066-m11068-Pont_d_Arcole-Paris_Ile_de_France.html",
+      "ancestors": [
+        {
+          "abbrv": null,
+          "level": "City",
+          "name": "Paris",
+          "location_id": "187147"
+        },
+        {
+          "abbrv": null,
+          "level": "Region",
+          "name": "Ile-de-France",
+          "location_id": "187144"
+        },
+        {
+          "abbrv": null,
+          "level": "Country",
+          "name": "France",
+          "location_id": "187070"
+        }
+      ],
+      "longitude": "2.350671",
+      "hours": null,
+      "percent_recommended": null,
+      "bearing": "southwest",
+      "groups": [
+        {
+          "name": "Sights & Landmarks",
+          "categories": [
+            {
+              "name": "Bridges",
+              "localized_name": "Bridges"
+            },
+            {
+              "name": "Points of Interest & Landmarks",
+              "localized_name": "Points of Interest & Landmarks"
+            },
+            {
+              "name": "Monuments & Statues",
+              "localized_name": "Monuments & Statues"
+            }
+          ],
+          "localized_name": "Sights & Landmarks"
+        }
+      ],
+      "ranking_data": {
+        "ranking_string": "#430 of 2,398 things to do in Paris",
+        "ranking_out_of": "2398",
+        "geo_location_id": "187147",
+        "ranking": "430",
+        "geo_location_name": "Paris",
+        "ranking_string_detail": null
+      },
+      "location_string": "Paris, Ile-de-France",
+      "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d8408066-Reviews-Pont_d_Arcole-Paris_Ile_de_France.html?m=11068",
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-11068-5.svg",
+      "awards": [],
+      "name": "Pont d'Arcole",
+      "attraction_booking": {
+        "bookable": false
+      },
+      "num_reviews": "35",
+      "category": {
+        "name": "attraction",
+        "localized_name": "Attraction"
+      },
+      "subcategory": [
+        {
+          "name": "landmarks",
+          "localized_name": "Sights & Landmarks"
+        },
+        {
+          "name": "attractions",
+          "localized_name": "Attractions"
+        }
+      ],
+      "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g187147-d8408066-m11068-Reviews-Pont_d_Arcole-Paris_Ile_de_France.html#photos"
+    }
+  ],
+  "paging": {
+    "next": null,
+    "previous": null,
+    "results": "10",
+    "total_results": "10",
+    "skipped": "0"
+  }
+}
