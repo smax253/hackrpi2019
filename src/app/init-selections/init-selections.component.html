@@ -3,8 +3,11 @@
     Choose your locations.
     <span id='params' [innerHTML] = 'loc'></span>
     <span id='param2' [innerHTML] = 'id'></span>
+    <span id="param3" [innerHTML] = 'zoom'></span>
   </div>
   <div class='itineraryPane' id="map">
-
+    <agm-map [latitude] = 'lat' [longitude] = 'long'
+      [mapTypeId] = 'mapType'
+      [minZoom] = 'zoom'></agm-map>
   </div>
 </div>

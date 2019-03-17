@@ -22,7 +22,7 @@ import { PickItineraryComponent } from './pick-itinerary/pick-itinerary.componen
 import { SafePipe } from "./safepipe.pipe";
 import { InitSelectionsComponent } from './init-selections/init-selections.component';
 
-
+import { AgmCoreModule } from '@agm/core';
 
 @NgModule({
   declarations: [
@@ -32,7 +32,7 @@ import { InitSelectionsComponent } from './init-selections/init-selections.compo
     CreateItineraryComponent,
     PickItineraryComponent,
     SafePipe,
-    InitSelectionsComponent
+    InitSelectionsComponent,
   ],
   exports: [
     SafePipe
@@ -47,6 +47,9 @@ import { InitSelectionsComponent } from './init-selections/init-selections.compo
     AdminModule,
     AppRoutingModule,
     ReactiveFormsModule,
+    AgmCoreModule.forRoot({
+      apiKey:"AIzaSyAOQiJ-vmDOcQ1Ndq-arZYHZGxsi0sWk_w"
+    })
   ],
   providers: [{
     provide: HTTP_INTERCEPTORS,
