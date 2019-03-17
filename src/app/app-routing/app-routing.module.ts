@@ -3,6 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { AuthGuard } from '../auth/auth-guard.service';
 import { HomeComponent } from '../home/home.component';
 import { PickItineraryComponent } from '../pick-itinerary/pick-itinerary.component';
+import { FinalItineraryComponent } from '../final-itinerary/final-itinerary.component';
 
 const routes: Routes = [{
   path: '',
@@ -16,6 +17,12 @@ const routes: Routes = [{
 }, {
   path: 'loginPath',
   component: PickItineraryComponent
+}, {
+  path: 'finalItPath',
+  component: FinalItineraryComponent
+}, {
+  path: 'joinItPath',
+  component: JoinItineraryComponent
 }
 ];
 

@@ -16,6 +16,9 @@ import { AppRoutingModule } from './app-routing/app-routing.module';
 import { HeaderComponent } from './header/header.component';
 import { HomeComponent } from './home/home.component';
 import { PickItineraryComponent } from './pick-itinerary/pick-itinerary.component';
+import { FinalItineraryComponent } from './final-itinerary/final-itinerary.component';
+import { DragDropModule } from '@angular/cdk/drag-drop';
+import { JoinItineraryComponent } from './join-itinerary/join-itinerary.component';
 
 @NgModule({
   declarations: [
@@ -23,6 +26,8 @@ import { PickItineraryComponent } from './pick-itinerary/pick-itinerary.componen
     HeaderComponent,
     HomeComponent,
     PickItineraryComponent,
+    FinalItineraryComponent,
+    JoinItineraryComponent,
   ],
   imports: [
     BrowserModule,
@@ -33,6 +38,7 @@ import { PickItineraryComponent } from './pick-itinerary/pick-itinerary.componen
     AuthModule,
     AdminModule,
     AppRoutingModule,
+    DragDropModule
   ],
   providers: [{
     provide: HTTP_INTERCEPTORS,
