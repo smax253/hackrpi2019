@@ -8,8 +8,8 @@ import {CdkDragDrop, moveItemInArray, transferArrayItem} from '@angular/cdk/drag
 })
 export class FinalItineraryComponent implements OnInit {
   todo = [
-    {value: 'BREAKFAST', disabled: true}
-    {value: 'LUNCH', disabled: true}
+    {value: 'BREAKFAST', disabled: true},
+    {value: 'LUNCH', disabled: true},
     {value: 'DINNER', disabled: true}
   ];
 
@@ -19,8 +19,8 @@ export class FinalItineraryComponent implements OnInit {
     {value: 'a', disabled: false},
     {value: 'butt', disabled: false},
     {value: 'but', disabled: false},
-    {value: 'thats', disabled: false}
-    {value: 'ok', disabled: false}
+    {value: 'thats', disabled: false},
+    {value: 'ok', disabled: false},
     {value: 'uhhh', disabled: false},
     {value: 'ummm', disabled: false},
     {value: 'hmm', disabled: false},

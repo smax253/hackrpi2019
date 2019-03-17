@@ -20,7 +20,6 @@ import { ReactiveFormsModule } from "@angular/forms";
 import { PickItineraryComponent } from './pick-itinerary/pick-itinerary.component';
 import { FinalItineraryComponent } from './final-itinerary/final-itinerary.component';
 import { DragDropModule } from '@angular/cdk/drag-drop';
-import { JoinItineraryComponent } from './join-itinerary/join-itinerary.component';
 
 import { SafePipe } from "./safepipe.pipe";
 import { InitSelectionsComponent } from './init-selections/init-selections.component';
@@ -35,7 +34,6 @@ import { InitSelectionsComponent } from './init-selections/init-selections.compo
     CreateItineraryComponent,
     PickItineraryComponent,
     FinalItineraryComponent,
-    JoinItineraryComponent,
     SafePipe,
     InitSelectionsComponent
   ],

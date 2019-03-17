@@ -23,9 +23,6 @@ const routes: Routes = [{
   path: 'finalItPath',
   component: FinalItineraryComponent
 }, {
-  path: 'joinItPath',
-  component: JoinItineraryComponent
-},{
   path: 'create',
   component: CreateItineraryComponent
 },{
