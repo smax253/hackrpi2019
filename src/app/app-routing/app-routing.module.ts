@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { AuthGuard } from '../auth/auth-guard.service';
 import { HomeComponent } from '../home/home.component';
+import { PickItineraryComponent } from '../pick-itinerary/pick-itinerary.component';
 
 const routes: Routes = [{
   path: '',
@@ -12,7 +13,11 @@ const routes: Routes = [{
 }, {
   path: 'admin',
   loadChildren: 'app/admin/admin.module#AdminModule'
-}];
+}, {
+  path: 'loginPath',
+  component: PickItineraryComponent
+}
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

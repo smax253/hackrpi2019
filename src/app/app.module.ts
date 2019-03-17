@@ -17,6 +17,7 @@ import { HeaderComponent } from './header/header.component';
 import { HomeComponent } from './home/home.component';
 import { CreateItineraryComponent } from './create-itinerary/create-itinerary.component';
 import { ReactiveFormsModule } from "@angular/forms";
+import { PickItineraryComponent } from './pick-itinerary/pick-itinerary.component';
 
 @NgModule({
   declarations: [
@@ -24,6 +25,7 @@ import { ReactiveFormsModule } from "@angular/forms";
     HeaderComponent,
     HomeComponent,
     CreateItineraryComponent,
+    PickItineraryComponent,
   ],
   imports: [
     BrowserModule,
