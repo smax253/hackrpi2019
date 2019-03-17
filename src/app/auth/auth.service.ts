@@ -49,6 +49,10 @@ export class AuthService {
     (<any>window).user = user;
   }
 
+  setToken(token): void {
+    this.token.saveToken(token);
+  }
+
   getUser(): Observable<any> {
     return this.$userSource.asObservable();
   }

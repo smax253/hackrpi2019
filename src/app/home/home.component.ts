@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import {Router} from '@angular/router';
+import { AuthService } from '../auth/auth.service';
 declare var snap: any;
 
 @Component({
@@ -8,9 +10,13 @@ declare var snap: any;
 })
 export class HomeComponent implements OnInit {
 
-  constructor() { }
+  constructor(private router: Router, private auth: AuthService) { }
 
   ngOnInit() {
+    this.auth.getUser().subscribe((data) => {
+      this.router.navigate(['loginPath']);
+    });
+
     snap.loginkit.mountButton('login', {
       // clientId: '39edc6f2-a723-4510-93c8-d570a704b53d',
       // redirectURI: 'http://localhost:4040/',

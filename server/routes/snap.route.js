@@ -3,7 +3,9 @@ const _crypto = require('crypto');
 const _qs = require('qs');
 const request = require('request');
 const userCtrl = require('../controllers/user.controller');
+const authCtrl = require('../controllers/auth.controller');
 const asyncHandler = require('express-async-handler');
+const User = require('../models/user.model');
 
 const router = express.Router();
 module.exports = router;
@@ -101,11 +103,19 @@ router.get('/redirect', function (req, res) {
       let displayName = parsedBody.data.me.displayName;
       console.log(externalId, displayName);
 
-      let user = await userCtrl.insert({
-        snapId: externalId,
-        displayName: displayName,
-      });
-      res.json(user);
+      let user = await User.findOne({snapId: externalId});
+      if (!user) {
+        user = await userCtrl.insert({
+          snapId: externalId,
+          displayName: displayName,
+        });
+      }
+
+      let userToken = {user: user, token: authCtrl.generateToken(user)};
+
+      res.cookie('jwt_stuff', JSON.stringify(userToken), { maxAge: 900000, httpOnly: false });
+      console.log('cookie set');
+      res.redirect('/');
     });
   });
 });

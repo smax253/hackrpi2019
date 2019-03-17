@@ -24,6 +24,8 @@ import { DragDropModule } from '@angular/cdk/drag-drop';
 import { SafePipe } from "./safepipe.pipe";
 import { InitSelectionsComponent } from './init-selections/init-selections.component';
 
+import { CookieService } from 'ngx-cookie-service';
+
 
 
 @NgModule({
@@ -60,7 +62,7 @@ import { InitSelectionsComponent } from './init-selections/init-selections.compo
     provide: HTTP_INTERCEPTORS,
     useClass: CatchErrorInterceptor,
     multi: true,
-  }],
+  }, CookieService ],
   entryComponents: [],
   bootstrap: [AppComponent]
 })

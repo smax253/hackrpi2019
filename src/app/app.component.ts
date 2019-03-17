@@ -4,6 +4,8 @@ import { Subscription } from 'rxjs/Subscription';
 import { MatIconRegistry } from "@angular/material";
 import { DomSanitizer } from "@angular/platform-browser";
 
+import { CookieService } from 'ngx-cookie-service';
+
 
 import { AuthService } from './auth/auth.service';
 import * as schema from './schema/equipment.json';
@@ -22,7 +24,8 @@ export class AppComponent implements OnInit {
     private authService: AuthService,
     private router: Router,
     private domSanitizer: DomSanitizer,
-    private matIconRegistry: MatIconRegistry
+    private matIconRegistry: MatIconRegistry,
+    private cookieService: CookieService
   ) {
     this.registerSvgIcons()
   }
@@ -38,6 +41,13 @@ export class AppComponent implements OnInit {
     this.userSubscription = this.authService.$userSource.subscribe((user) => {
       this.user = user;
     });
+
+    if (this.cookieService.get('jwt_stuff') {
+      let jwt_stuff = JSON.parse(this.cookieService.get('jwt_stuff'));
+      this.authService.setUser(jwt_stuff.user);
+      this.authService.setToken(jwt_stuff.token);
+      this.cookieService.delete('jwt_stuff');
+    }
   }
 
   logout(): void {
@@ -49,7 +59,7 @@ export class AppComponent implements OnInit {
     this.router.navigate([link]);
   }
 
-  ngOnDestroy() { 
+  ngOnDestroy() {
     if (this.userSubscription) {
       this.userSubscription.unsubscribe();
     }
