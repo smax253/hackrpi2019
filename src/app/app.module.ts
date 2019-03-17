@@ -19,6 +19,11 @@ import { CreateItineraryComponent } from './create-itinerary/create-itinerary.co
 import { ReactiveFormsModule } from "@angular/forms";
 import { PickItineraryComponent } from './pick-itinerary/pick-itinerary.component';
 
+import { SafePipe } from "./safepipe.pipe";
+import { InitSelectionsComponent } from './init-selections/init-selections.component';
+
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -26,6 +31,11 @@ import { PickItineraryComponent } from './pick-itinerary/pick-itinerary.componen
     HomeComponent,
     CreateItineraryComponent,
     PickItineraryComponent,
+    SafePipe,
+    InitSelectionsComponent
+  ],
+  exports: [
+    SafePipe
   ],
   imports: [
     BrowserModule,

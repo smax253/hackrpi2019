@@ -1,6 +1,23 @@
 <div class="siteContainer" id="createItin">
-  <label>
-    Name:
-    <input type='text' [formControl]="name">
-  </label>
+  <h2>Create Your Itinerary</h2>
+  <form id="createForm" [formGroup]='itinerary' (ngSubmit) = 'onSubmit()'>
+    <label>
+      Name:
+      <input type='text' formControlName="name" required>
+    </label>
+    <label>
+      Place:
+      <input type='text' formControlName="location" (focusout)="checkLoc()" required>
+    </label>
+    <iframe
+      width="600"
+      height="300"
+      frameborder="0" style="border:0"
+      [src]="place | safe"></iframe>
+    <label>
+      Date:
+      <input type="date" formControlName='date' required>
+    </label>
+    <button type="submit" [disabled]="!itinerary.valid">Submit</button>
+  </form>
 </div>
