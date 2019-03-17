@@ -18,6 +18,8 @@ import { HomeComponent } from './home/home.component';
 import { CreateItineraryComponent } from './create-itinerary/create-itinerary.component';
 import { ReactiveFormsModule } from "@angular/forms";
 import { PickItineraryComponent } from './pick-itinerary/pick-itinerary.component';
+import { FinalItineraryComponent } from './final-itinerary/final-itinerary.component';
+import { DragDropModule } from '@angular/cdk/drag-drop';
 
 import { SafePipe } from "./safepipe.pipe";
 import { InitSelectionsComponent } from './init-selections/init-selections.component';
@@ -31,6 +33,7 @@ import { AgmCoreModule } from '@agm/core';
     HomeComponent,
     CreateItineraryComponent,
     PickItineraryComponent,
+    FinalItineraryComponent,
     SafePipe,
     InitSelectionsComponent,
   ],
@@ -49,7 +52,9 @@ import { AgmCoreModule } from '@agm/core';
     ReactiveFormsModule,
     AgmCoreModule.forRoot({
       apiKey:"AIzaSyAOQiJ-vmDOcQ1Ndq-arZYHZGxsi0sWk_w"
-    })
+    }),
+    DragDropModule,
+    ReactiveFormsModule
   ],
   providers: [{
     provide: HTTP_INTERCEPTORS,

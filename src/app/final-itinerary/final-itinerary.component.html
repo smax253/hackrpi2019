@@ -1,0 +1,43 @@
+<div class="wrapper">
+<div class="sidePane" id="leftPane">
+  <div class="example-container a">
+    <h2>My Itinerary</h2>
+
+    <div
+      cdkDropList
+      #todoList="cdkDropList"
+      [cdkDropListData]="todo"
+
+      [cdkDropListConnectedTo]="[doneList]"
+      class="example-list"
+      (cdkDropListDropped)="drop($event)">
+      <div class="example-box"
+        *ngFor="let item of todo"
+        cdkDrag
+        [cdkDragDisabled]="item.disabled" >
+        {{item.value}}
+      </div>
+    </div>
+  </div>
+</div>
+<div class="sidePane" id="rightPane">
+  <div class="example-container b">
+    <h2>My Activities</h2>
+    <div
+      cdkDropList
+      #doneList="cdkDropList"
+      [cdkDropListData]="done"
+      [cdkDropListConnectedTo]="[todoList]"
+      class="example-list"
+      (cdkDropListDropped)="drop($event)">
+      <div class="example-box" *ngFor="let item of done" cdkDrag
+      [cdkDragDisabled]="item.disabled">{{item.value}}</div>
+    </div>
+  </div>
+
+  <div class="example-container c">
+    <h2>My Itinerary</h2>
+    <img src="https://cdn.shopify.com/s/files/1/1061/1924/products/Sad_Face_Emoji_large.png?v=1480481055" alt="UH face" height="200" width="200">
+  </div>
+</div>
+</div>
